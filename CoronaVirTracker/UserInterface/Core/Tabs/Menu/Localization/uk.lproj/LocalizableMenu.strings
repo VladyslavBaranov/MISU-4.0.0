@@ -1,0 +1,33 @@
+/* 
+  LocalizableMenu.strings
+  CoronaVirTracker
+
+  Created by Vladyslav Baranov on 15.10.2022.
+  Copyright © 2022 CVTCompany. All rights reserved.
+*/
+
+"menu-year-short" = "р.";
+"menu-gender" = "Стать";
+"menu-height" = "Зріст (см)";
+"menu-weight" = "Вага (кг)";
+
+"menu-my-family" = "Моя сімʼя";
+"menu-call" = "Викликати";
+"menu-message" = "Написати";
+
+"menu-health-indicators" = "Показники здоров’я";
+
+"menu-settings" = "Налаштування";
+"menu-setings-profile" = "Профіль користувача";
+"menu-settings-lang" = "Зміна мови";
+"menu-settings-help" = "Допомога";
+"menu-settings-logout" = "Вийти з облікового запису";
+"menu-settings-question" = "Питання";
+
+"menu-user-profile" = "Профіль\nкористувача";
+"menu-ready" = "Готово";
+"menu-firstname" = "Ім’я";
+"menu-firstname-incorrect" = "Неправильно введене імʼя";
+"menu-lastname" = "Прізвище";
+"menu-lastname-incorrect" = "Неправильно введене прізвище";
+"menu-patronymic" = "По батькові";

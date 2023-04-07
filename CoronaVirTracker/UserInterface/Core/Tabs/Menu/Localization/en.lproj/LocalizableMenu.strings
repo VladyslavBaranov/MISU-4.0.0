@@ -1,0 +1,34 @@
+/* 
+  LocalizableMenu.strings
+  CoronaVirTracker
+
+  Created by Vladyslav Baranov on 15.10.2022.
+  Copyright © 2022 CVTCompany. All rights reserved.
+*/
+
+"menu-year-short" = "y.";
+"menu-gender" = "Gender";
+"menu-height" = "Height (cm)";
+"menu-weight" = "Weight (kg)";
+
+"menu-my-family" = "My Family";
+"menu-call" = "Call";
+"menu-message" = "Message";
+
+"menu-health-indicators" = "Health Indicators";
+
+"menu-settings" = "Settings";
+"menu-setings-profile" = "User profile";
+"menu-settings-lang" = "Language change";
+"menu-settings-help" = "Help";
+"menu-settings-logout" = "Logout";
+"menu-settings-question" = "Issue";
+
+"menu-user-profile" = "User\nprofile";
+"menu-ready" = "Ready";
+"menu-firstname" = "Firstname";
+"menu-firstname-incorrect" = "Incorrect firstname";
+"menu-lastname" = "Lastname";
+"menu-lastname-incorrect" = "Incoreect lastname";
+"menu-patronymic" = "Patronymic";
+

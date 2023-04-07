@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "deep-sleep.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

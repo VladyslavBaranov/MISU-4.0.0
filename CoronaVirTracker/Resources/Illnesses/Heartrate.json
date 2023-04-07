@@ -1,0 +1,89 @@
+{
+    "cards": [
+        {
+            "title": "hrr_str_1",
+            "content": [
+                {
+                    "paragraphType": 0,
+                    "text": "hrr_str_2"
+                }
+            ]
+        },
+        {
+            "title": "hrr_str_3",
+            "content": [
+                {
+                    "paragraphType": 1,
+                    "text": "hrr_str_5"
+                },
+                {
+                    "paragraphType": 1,
+                    "text": "hrr_str_6"
+                }
+            ]
+        },
+        {
+            "title": "hrr_str_7",
+            "content": [
+                {
+                    "paragraphType": 1,
+                    "text": "hrr_str_8"
+                },
+                {
+                    "paragraphType": 1,
+                    "text": "hrr_str_9"
+                },
+                {
+                    "paragraphType": 1,
+                    "text": "hrr_str_10"
+                },
+                {
+                    "paragraphType": 1,
+                    "text": "hrr_str_11"
+                },
+                {
+                    "paragraphType": 1,
+                    "text": "hrr_str_12"
+                },
+                {
+                    "paragraphType": 1,
+                    "text": "hrr_str_13"
+                },
+                {
+                    "paragraphType": 1,
+                    "text": "hrr_str_14"
+                },
+                {
+                    "paragraphType": 1,
+                    "text": "hrr_str_15"
+                }
+            ],
+            "footer": {
+                "title": "hrr_str_16",
+                "text": "hrr_str_17"
+            }
+        },
+        {
+            "title": "hrr_str_22",
+            "content": [
+                {
+                    "paragraphType": 1,
+                    "text": "hrr_str_18"
+                },
+                {
+                    "paragraphType": 1,
+                    "text": "hrr_str_19"
+                },
+                {
+                    "paragraphType": 1,
+                    "text": "hrr_str_20"
+                },
+                {
+                    "paragraphType": 1,
+                    "text": "hrr_str_21"
+                }
+            ]
+        }
+    ]
+}
+

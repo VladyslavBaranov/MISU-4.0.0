@@ -1,0 +1,52 @@
+[
+    {
+        "id": 0,
+        "firstName": "Анастасія",
+        "lastName": "Городищенко",
+        "doctor_category": "Сімейний лікар",
+        "avatarName": "Doctor1",
+        "location": "м. Рівне",
+        "tags": ["Діти 0-16", "Дорослі", "Covid-19"],
+        "description": "Лікар спеціалізується на сімейній медицині"
+    },
+    {
+        "id": 1,
+        "firstName": "Галина",
+        "lastName": "Дмитренок",
+        "doctor_category": "Педіатр",
+        "avatarName": "Doctor2",
+        "location": "м. Камʼянець-Подільский",
+        "tags": ["Діти 0-3 р.", "Дорослі"],
+        "description": "Проводить первинний лікарський патронаж новонародженого"
+    },
+    {
+        "id": 2,
+        "firstName": "Інна",
+        "lastName": "Омельчук",
+        "doctor_category": "Сімейний лікар",
+        "avatarName": "",
+        "location": "м. Одеса",
+        "tags": ["Діти 0-16", "Дорослі", "Covid-19"],
+        "description": "Веде прийом для дітей від народження"
+    },
+    {
+        "id": 3,
+        "firstName": "Ольга",
+        "lastName": "Латишева",
+        "doctor_category": "Сімейний лікар",
+        "avatarName": "Doctor4",
+        "location": "м. Дніпро",
+        "tags": ["Дорослі", "Covid-19"],
+        "description": "Діагностика та лікування захворювань доросдих; консультації з приводу вакцинації"
+    },
+    {
+        "id": 4,
+        "firstName": "Павло",
+        "lastName": "Швець",
+        "doctor_category": "Ендокринолог",
+        "avatarName": "Doctor5",
+        "location": "м. Львів",
+        "tags": ["Діти 7-16 р.", "Дорослі", "Covid-19"],
+        "description": "Здійснює прийом пацієнтів амбулаторно"
+    }
+]

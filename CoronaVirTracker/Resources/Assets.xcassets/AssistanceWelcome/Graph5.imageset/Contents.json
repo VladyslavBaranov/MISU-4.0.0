@@ -1,0 +1,25 @@
+{
+  "images" : [
+    {
+      "filename" : "Group 1324-5.png",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "Group 1324-7.png",
+      "idiom" : "universal",
+      "locale" : "en"
+    },
+    {
+      "filename" : "Group 1324-6.png",
+      "idiom" : "universal",
+      "locale" : "uk"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "localizable" : true
+  }
+}

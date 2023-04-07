@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "square-uns.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

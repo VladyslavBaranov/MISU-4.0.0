@@ -1,0 +1,1048 @@
+/* 
+  Localizable.strings
+  CoronaVirTracker
+
+  Created by Dmitriy Kruglov on 4/2/20.
+  Copyright © 2020 CVTCompany. All rights reserved.
+*/
+
+
+// GENERAL UI
+"wc_str_4" = "Cancel";
+"gui_add" = "Add";
+"gui_update" = "Update";
+"gui_v" = "Version";
+
+// TIME
+"datetime_date" = "Date";
+"datetime_time" = "Time";
+"datetime_day" = "Day";
+"datetime_week" = "Week";
+"datetime_month" = "Month";
+"datetime_year" = "Year";
+"datetime_today" = "Today";
+
+// UNITS
+"unit_heart" = "beats/min";
+"unit_pressure" = "mm Hg";
+"unit_insuline" = "mmol/L";
+
+// WATCH CONNECTION
+"wc_str_1" = "Watch\nconnection";
+"wc_str_2" = "Device search";
+"wc_str_3" = "Not connected";
+
+// HEART RATE
+"hrr_str_1" = "About the heartbeat";
+"hrr_str_2" = "Heart rate (HR) is the number of beats (contractions) of the heart in one minute. The normal heart rate may vary from person to person, depending on individual characteristics.";
+"hrr_str_3" = "Normal heart rate";
+"hrr_str_4" = "About the heartbeat";
+"hrr_str_5" = "Persons over 18 years of age: from 60 to 100 beats per minute;";
+"hrr_str_6" = "Children: 70 to 100 beats per minute";
+"hrr_str_7" = "The main reasons for changes in heart rate";
+"hrr_str_8" = "Age (heart rate may increase with age);";
+"hrr_str_9" = "Level of physical activity;";
+"hrr_str_10" = "Weight;";
+"hrr_str_11" = "Cardiovascular diseases;";
+"hrr_str_12" = "Endocrine and hormonal disorders;";
+"hrr_str_13" = "Air temperature and humidity;";
+"hrr_str_14" = "Emotional condition;";
+"hrr_str_15" = "Smoking";
+"hrr_str_16" = "We recommend you to visit the doctor:";
+"hrr_str_17" = "If in a calm state the heart rate regularly exceeds 100 bpm (tachycardia);\nIf in a calm state the heart rate is regularly below 60 bpm (bradycardia).\mDo not postpone a visit to the doctor if you have other symptoms: shortness of breath, dizziness, loss of consciousness, etc.";
+"hrr_str_18" = "Reduce the level of stress;";
+"hrr_str_19" = "Give up smoking;";
+"hrr_str_20" = "Have regular physical activity;";
+"hrr_str_21" = "Maintain a normal body weight";
+"hrr_str_22" = "Disease prevention";
+
+"gen_str_1" = "Risk factors";
+"gen_str_2" = "Typical symptoms";
+"gen_str_3" = "Disease prevention";
+"gen_str_4" = "Warning!";
+"gen_str_5" = "Today";
+"get_str_6" = "Next";
+"gen_str_7" = "normal";
+"gen_world" = "World";
+
+"unit_thousand" = "thou.";
+
+"was_str_1" = "Welcome to MISU Assistant!";
+"was_str_2" = "Your personal doctor";
+"was_str_3" = "Consultations at any time 24/7";
+"was_str_4" = "Automatic insurance within 50K UAH / year";
+"was_str_5" = "Predicts the health risks and informs about it";
+"was_str_6" = "See on the health statistics over time";
+"was_str_7" = "Activate the Assistant by purchasing a bracelet or subscription";
+"was_str_8" = "MISU bracelet for your health";
+"was_str_9" = "The bracelet counts all indicators and saves the data";
+"was_str_10" = "MISU Assistant is thousands of lives saved";
+"was_str_11" = "Cases of threat of a stroke are prevented";
+"was_str_12" = "Cases of preinfarction condition are prevented";
+"was_str_13" = "Prevention of damaged capillaries in diabetes";
+"was_str_14" = "Prevention of severe pneumonia";
+"was_str_15" = "Users around the world trust the  Assistant";
+"was_str_16" = "World";
+"was_str_17" = "53K";
+"was_str_18" = "MISU Assistant helps users recover";
+"was_str_19" = "Prevented diseases";
+"was_str_20" = "Contact with doctor";
+"was_str_21" = "Follow the health trends around you and in the world";
+"was_str_22" = "* average value of the indicator";
+"was_str_23" = "Activate MISU Assistant";
+
+"was_str_24" = "Buy";
+"was_str_25" = "MISU takes care of you";
+"was_str_26" = "Basic insurance policy 'Care' for everyone";
+"was_str_27" = "Protect your health every day";
+"was_str_28" = "Basic insurance policy from Alpha Insurance";
+"was_str_29" = "Activate the Assistant by purchasing a bracelet or subscription";
+
+
+// MAIN ASSISTANCE HEADER
+
+"mah_pol_str_1" = "MISU Assistant";
+"mah_pol_str_2" = "Consult during working days\nfrom 9:00 to 17:00";
+
+"mah_str_1" = "MISU Assistant 24/7";
+"mah_str_2" = "An assistant is always here when you need an urgent consultation";
+"mah_str_3" = "Call";
+"mah_str_4" = "Mail";
+"mah_str_5" = "Assistant";
+"mah_str_6" = "Health indicators";
+"mah_str_7" = "More";
+"mah_str_8" = "Blood Pressure";
+"mah_str_9" = "Blood Sugar Glucose";
+"mah_str_10" = "Heartbeat";
+"mah_str_11" = "mmol/L";
+"mah_str_12" = "beats/min";
+"mah_str_13" = "My Assistant";
+"mah_str_14" = "Doctor Online";
+"mah_str_15" = "Risk group";
+"mah_str_16" = "How the MISU Assistant works";
+"mah_str_17" = "Personal assistant 24/7";
+"mah_str_18" = "mm Hg";
+"mah_str_19" = "Menu";
+"mah_str_20" = "Bracelet";
+
+"dl_str_1" = "Family doctor";
+"dl_str_2" = "Pediatrician";
+"dl_str_3" = "Endocrinologist";
+"dl_str_4" = "Children 0-16 yr.";
+"dl_str_5" = "Adults";
+"dl_str_6" = "Covid-19";
+"dl_str_7" = "Children 7-16 yr.";
+"dl_str_8" = "Children 0-3 yr.";
+
+"dd_str_1" = "Doctor's profile";
+"dd_str_2" = "About the Doctor";
+"dd_str_3" = "Read more";
+"dd_str_4" = "Send a message";
+"dd_str_5" = "Make a call";
+"dd_str_6" = "Hide";
+
+"cl_str_1" = "All chats";
+"cl_str_2" = "Congratulations! Your data has been transferred to the doctor. Wait for the call...";
+
+"cp_str_1" = "MISU Assistant";
+"cp_str_2" = "The current 'Blood pressure' reading can lead to a critical condition. Please answer whether you need a doctor's consultation.";
+"cp_str_3" = "Remember that you can always contact a doctor if necessary.";
+"cp_str_4" = "Good afternoon,\napplication is received. Doctor will answer you in 1 minute";
+ 
+"mm_str_1" = "Male";
+"mm_str_2" = "Female";
+"mm_str_3" = "Sex";
+"mm_str_4" = "Height (cm)";
+"mm_str_5" = "Weight (kg)";
+"mm_str_6" = "Blood type";
+"mm_str_7" = "July";
+"mm_str_8" = "All indicators are normal";
+"mm_str_9" = "No unstable indicators were recorded for this day";
+"mm_str_10" = "Alpha Insurance";
+"mm_str_11" = "Taking care of the main thing, for you and your loved ones";
+"mm_str_12" = "My Family";
+"mm_str_13" = "Add to group\n ";
+"mm_str_14" = "July";
+"mm_str_15" = "This day:";
+"mm_str_16" = "No planned events this day";
+"mm_str_17" = "Calendar";
+
+"wm_str_1" = "Connected";
+"wm_str_2" = "Intensive health monitoring";
+"wm_str_3" = "Sleep";
+"wm_str_4" = "Steps";
+"wm_str_5" = "General indicators";
+"wm_str_6" = "Bracelet";
+
+
+
+"wr_str_1" = "Loading your data...";
+
+"hc_str_1" = "Health\nindicators";
+"hc_str_2" = "Sleep";
+"hc_str_3" = "Steps";
+"hc_str_4" = "Blood pressure";
+"hc_str_5" = "Blood Sugar Glucose";
+"hc_str_6" = "Heartbeat";
+"hc_str_7" = "Saturation";
+"hc_str_8" = "Body temperature";
+
+"nm_str_1" = "Notification";
+"nm_str_2" = "«Blood pressure»: possible critical condition";
+"nm_str_3" = "«Name» has the current indicator that may lead to a critical condition. We have not received a response from the user. Do you need a doctor's consultation? *";
+"nm_str_4" = "Call the doctor";
+"nm_str_5" = "Consultation is not required";
+"nm_str_6" = "* If we do not receive a response, we will try to contact the members of your family group";
+
+"BPC_str_1" = "Age 30+;";
+"BPC_str_2" = "Heredity;";
+"BPC_str_3" = "Overweight and obesity;";
+"BPC_str_4" = "Smoking;";
+"BPC_str_5" = "Food factors (table salt, coffee, strong tea, alcohol, etc.);";
+"BPC_str_6" = "Sedentary lifestyle";
+"BPC_str_7" = "Increased pressure;";
+"BPC_str_8" = "Headache (most often — in the occipital or parietal part);";
+"BPC_str_9" = "Periodic tinnitus, darkening of the eyes and dizziness;";
+"BPC_str_10" = "Rapid heartbeat;";
+"BPC_str_11" = "Feeling of suffocation";
+"BPC_str_12" = "If serious symptoms appear, you should immediately call for medical help!";
+"BPC_str_13" = "Limit the use of salt;";
+"BPC_str_14" = "Reduce alcohol consumption;";
+"BPC_str_15" = "Give up smoking;";
+"BPC_str_16" = "Have regular physical activity;";
+"BPC_str_17" = "Maintain a normal body weight";
+"BPC_str_18" = "About blood pressure";
+"BPC_str_19" = "Blood pressure is the force with which blood presses against the walls of arteries. Systolic blood pressure corresponds to the pressure during contraction of the heart (systole), diastolic blood pressure - when the heart relaxes (diastole).";
+"BPC_str_20" = "* Blood pressure is normal!";
+"BPC_str_21" = "Your data is stable. If there are deviations from the norm, we will inform you about it.";
+"BPC_str_22" = "Норма кров’яного тиску";
+"BPC_str_23" = "Середнім показником вважають 120/80 мм рт, проте в залежності від віку та індивідуальних особливостей показник може змінюватись";
+
+/* INTENSIVE MONITORING */
+
+"im_str_1" = "Intensive\nmonitoring";
+"im_str_2" = "Mode of intensive health monitoring";
+"im_str_3" = "Turn on the mode so that the indicators are scanned more often even when the application is closed";
+"im_str_4" = "Importantly!";
+"im_str_5" = "* Greater activity of devices may require more frequent recharging;";
+"im_str_6" = "** App mode requires VPN access, which is enabled automatically";
+
+"ahw_str_1" = "How does the MISU Assistant work?";
+"ahw_str_2" = "After activating the Assistant, you can access health care services with MISU Watch (or another device):";
+"ahw_str_3" = "Notification of possible health threats — Assistant notifies about possible negative changes even before they occur;*";
+"ahw_str_4" = "Online Assistant 24/7 — you can contact the doctor at any time for a consultation without restrictions for 12 months;";
+"ahw_str_5" = "Emergency call — the possibility of calling in the application in case of a critical situation 2 times within 12 months;";
+"ahw_str_6" = "Hospitalization in case of a critical condition — up to UAH 50,000 to cover the costs of hospitalization within 12 months;";
+"ahw_str_7" = "* MISU Watch (or other device) measures indicators and after data analysis sends a health report with personal recommendations. In case of a critical situation, it sends a notification with a prediction of possible negative changes in health";
+"ahw_str_8" = "How to use?";
+"ahw_str_9" = "In the mobile application, go to the 'My Assistant' section";
+"ahw_str_10" = "Click the «Call» / «Mail» button to contact the MISU Assistant";
+"ahw_str_11" = "Tell us what kind of problem do you have";
+"ahw_str_12" = "The coordinator will organize an online consultation with the necessary doctor at a convenient time for you";
+
+
+"Welcome to MISU Assistant!" = "Welcome to MISU Assistant!";
+"Your personal doctor" = "Your personal doctor";
+"Consultations at any time 24/7" = "Consultations at any time 24/7";
+"Predicts the health risks and informs about it" = "Predicts the health risks and informs about it";
+"See on the health statistics over time" = "See on the health statistics over time";
+"MISU bracelet for your health" = "MISU bracelet for your health";
+"MISU Assistant is thousands of lives saved" = "MISU Assistant is thousands of lives saved";
+"Cases of threat of a stroke are prevented" = "Cases of threat of a stroke are prevented";
+"Prevention of severe pneumonia" = "Prevention of severe pneumonia";
+"Users around the world trust the  Assistant" = "Users around the world trust the  Assistant";
+"World" = "World";
+"53K" = "53K";
+"MISU Assistant helps users recover" = "MISU Assistant helps users recover";
+"Prevented diseases" = "Prevented diseases";
+"Contact with doctor" = "Contact with doctor";
+"Follow the health trends around you and in the world" = "Follow the health trends around you and in the world";
+
+"mm Hg *" = "mm Hg *";
+"* average value of the indicator" = "* average value of the indicator";
+"Activate MISU Assistant" = "Activate MISU Assistant";
+"Buy" = "Buy";
+"MISU takes care of you" = "MISU takes care of you";
+"Basic insurance policy \"Care\" for everyone" = "Basic insurance policy \"Care\" for everyone";
+"Protect your health every day" = "Protect your health every day";
+"Basic insurance policy from Alpha Insurance" = "Basic insurance policy from Alpha Insurance";
+"MISU Assistant 24/7" = "MISU Assistant 24/7";
+"An assistant is always here when you need an urgent consultation" = "An assistant is always here when you need an urgent consultation";
+"Call" = "Call";
+"Text" = "Text";
+"Health indicators" = "Health indicators";
+"More" = "More";
+"Blood Sugar Glucose" = "Blood Sugar Glucose";
+"Heartbeat" = "Heartbeat";
+"mmol/L" = "mmol/L";
+"beats/min" = "beats/min";
+"My Assistant" = "My Assistant";
+"Doctor Online" = "Doctor Online";
+"Risk group" = "Risk group";
+"How the MISU Assistant works" = "How the MISU Assistant works";
+"Personal assistant 24/7" = "Personal assistant 24/7";
+"Menu" = "Menu";
+"Assistant" = "Assistant";
+"Bracelet" = "Bracelet";
+"My family" = "My family";
+"Info" = "Info";
+"Family doctor" = "Family doctor";
+"Pediatrician" = "Pediatrician";
+"Endocrinologist" = "Endocrinologist";
+"Children 0-16 yr." = "Children 0-16 yr.";
+"Adults" = "Adults";
+"Covid-19" = "Covid-19";
+"Children 7-16 yr." = "Children 7-16 yr.";
+"Children 0-3 yr." = "Children 0-3 yr.";
+"Doctorʼs profile" = "Doctorʼs profile";
+"About the Doctor" = "About the Doctor";
+"Read more" = "Read more";
+"Send a message" = "Send a message";
+"Make a call" = "Make a call";
+"Hide" = "Hide";
+ 
+"Assistant Activation" = "Assistant Activation";
+"Cancel" = "Cancel";
+"Welcome!" = "Welcome!";
+"MISU Assistant activation is almost complete!" = "MISU Assistant activation is almost complete!";
+"Now you will be protected by the MISU Assistant, and our doctors are always in touch!" = "Now you will be protected by the MISU Assistant, and our doctors are always in touch!";
+"UAH 50,000 / year -— sum insured per insured person" = "UAH 50,000 / year -— sum insured per insured person";
+"Telemedicine -— online consultations with doctors 24/7" = "Telemedicine -— online consultations with doctors 24/7";
+"Departure of the ambulance within 30 km from the city" = "Departure of the ambulance within 30 km from the city";
+"Expenses for medicines and emergency drug therapy" = "Expenses for medicines and emergency drug therapy";
+"Initial medical examination" = "Initial medical examination";
+"Activate MISU Assistant" = "Activate MISU Assistant";
+ 
+"How does the MISU Assistant work?" = "How does the MISU Assistant work?";
+"After activating the Assistant, you can access health care services with MISU Watch (or another device):" = "After activating the Assistant, you can access health care services with MISU Watch (or another device):";
+"Online Assistant 24/7 — you can contact the doctor at any time for a consultation without restrictions for 12 months;" = "Online Assistant 24/7 — you can contact the doctor at any time for a consultation without restrictions for 12 months;";
+"Emergency call — the possibility of calling in the application in case of a critical situation 2 times within 12 months;" = "Emergency call — the possibility of calling in the application in case of a critical situation 2 times within 12 months;";
+"Transportation by ambulance — up to UAH 50,000 to cover the costs of hospitalization within 12 months;" = "Transportation by ambulance — up to UAH 50,000 to cover the costs of hospitalization within 12 months;";
+"* MISU Watch (or other device) measures indicators and after data analysis sends a health report with personal recommendations. In case of a critical situation, it sends a notification with a prediction of possible negative changes in health" = "* MISU Watch (or other device) measures indicators and after data analysis sends a health report with personal recommendations. In case of a critical situation, it sends a notification with a prediction of possible negative changes in health";
+"How to use?" = "How to use?";
+"In the mobile application, go to the \"My Assistant\" section" = "In the mobile application, go to the \"My Assistant\" section";
+"Click the «Call» / «Mail» button to contact the MISU Assistant" = "Click the «Call» / «Mail» button to contact the MISU Assistant";
+"Tell us what kind of problem do you have" = "Tell us what kind of problem do you have";
+"The coordinator will organize an online consultation with the necessary doctor at a convenient time for you" = "The coordinator will organize an online consultation with the necessary doctor at a convenient time for you";
+ 
+"Step %s of %s" = "Step %s of %s";
+"Enter the main data" = "Enter the main data";
+"Full Name *" = "Full Name *";
+"Date of birth *" = "Date of birth *";
+"E-mail *" = "E-mail *";
+"* Required field. We will send an insurance policy to your e-mail" = "* Required field. We will send an insurance policy to your e-mail";
+"Next" = "Next";
+ 
+"Step 2 of 5" = "Step 2 of 5";
+"Enter your address" = "Enter your address";
+"Country *" = "Country *";
+"City *" = "City *";
+"Delivery method *" = "Delivery method *";
+"Delivery address *" = "Delivery address *";
+"* Required field. We will send an insurance policy to the specified delivery address later" = "* Required field. We will send an insurance policy to the specified delivery address later";
+ 
+"Passport number *" = "Passport number *";
+"Enter the TIN and passport data" = "Enter the TIN and passport data";
+"Choose passport type *" = "Choose passport type *";
+"ID card" = "ID card";
+"Passport of a citizen of Ukraine" = "Passport of a citizen of Ukraine";
+"* Required field. These data are necessary for registration of the medical policy" = "* Required field. These data are necessary for registration of the medical policy";
+"I am acquainted with the Law of Ukraine \"On Personal Data Protection\" and consent to the processing of personal data" = "I am acquainted with the Law of Ukraine \"On Personal Data Protection\" and consent to the processing of personal data";
+"TIN *" = "TIN *";
+"The TIN must contain 10 digits. Enter again" = "The TIN must contain 10 digits. Enter again";
+"The ID card must contain 9 digits. Enter again" = "The ID card must contain 9 digits. Enter again";
+"The passport series must contain 2 characters. Enter again" = "The passport series must contain 2 characters. Enter again";
+ 
+"Step 4 of 5" = "Step 4 of 5";
+"Data verification" = "Data verification";
+"Basic data" = "Basic data";
+"Phone number" = "Phone number";
+"E-mail" = "E-mail";
+"Address" = "Address";
+"Country" = "Country";
+"City" = "City";
+"Method of delivery" = "Method of delivery";
+"Delivery address" = "Delivery address";
+"TIN and passport data" = "TIN and passport data";
+"TIN" = "TIN";
+"Type of passport" = "Type of passport";
+ 
+"Step 5 of 5" = "Step 5 of 5";
+"Acquaintance and agreement with the terms of insurance" = "Acquaintance and agreement with the terms of insurance";
+"Pay attention!" = "Pay attention!";
+"The age of the insured person should be 18-65 years" = "The age of the insured person should be 18-65 years";
+"The sum insured per insured person is UAH 50,000 / year" = "The sum insured per insured person is UAH 50,000 / year";
+"The insurance period is 1 year" = "The insurance period is 1 year";
+"The insurance provides:" = "The insurance provides:";
+"Telemedicine - online consultations of a therapist / family doctor / pediatrician, narrow specialists (unlimited);" = "Telemedicine - online consultations of a therapist / family doctor / pediatrician, narrow specialists (unlimited);";
+"Ambulance:" = "Ambulance:";
+"a) Departure of the ambulance within 30 km from the city;" = "a) Departure of the ambulance within 30 km from the city;";
+"b) Initial examination by a doctor, preliminary diagnosis, emergency care for vital signs (purchase of acute (critical) conditions, emergency drug therapy;" = "b) Initial examination by a doctor, preliminary diagnosis, emergency care for vital signs (purchase of acute (critical) conditions, emergency drug therapy;";
+"c) Transportation to a medical institution;" = "c) Transportation to a medical institution;";
+"d) Hospitalization in an inpatient department" = "d) Hospitalization in an inpatient department";
+"I agree with everything" = "I agree with everything";
+"I am acquainted with and agree with the procedure for concluding the Contract and the terms of insurance specified in the Offer" = "I am acquainted with and agree with the procedure for concluding the Contract and the terms of insurance specified in the Offer";
+"Acquainted with the declaration of health of the insured person at the link" = "Acquainted with the declaration of health of the insured person at the link";
+"I agree to the processing of my personal data by the Insurance Company on the terms specified in the Offer" = "I agree to the processing of my personal data by the Insurance Company on the terms specified in the Offer";
+ 
+"Finishing of activation" = "Finishing of activation";
+"The code was sent to the number" = "The code was sent to the number";
+"Send the code again" = "Send the code again";
+"Finish" = "Finish";
+"MISU Assistant and Watch are open for use!" = "MISU Assistant and Watch are open for use!";
+"Unlimited health care options are now available to you!" = "Unlimited health care options are now available to you!";
+"Okay" = "Okay";
+ 
+"Invalid number format. Enter again" = "Invalid number format. Enter again";
+"Invalid e-mail format. Enter again" = "Invalid e-mail format. Enter again";
+"The code must contain 3 digits and 1 letter" = "The code must contain 3 digits and 1 letter";
+"You will be able to resend the code in:" = "You will be able to resend the code in:";
+ 
+"About Covid-19" = "About Covid-19";
+"Corona virus infection (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus." = "Corona virus infection (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.";
+"Most people infected with the virus experience mild to moderate symptoms of respiratory illness and recover without the need for special treatment. At the same time, in some people, it occurs in a severe form that requires medical intervention." = "Most people infected with the virus experience mild to moderate symptoms of respiratory illness and recover without the need for special treatment. At the same time, in some people, it occurs in a severe form that requires medical intervention.";
+"Risk factors" = "Risk factors";
+"Age 65+;" = "Age 65+;";
+"The presence of background pathologies, in particular cardiovascular, chronic respiratory, oncological diseases and diabetes;" = "The presence of background pathologies, in particular cardiovascular, chronic respiratory, oncological diseases and diabetes;";
+"Direct contact with the infected person" = "Direct contact with the infected person";
+"Typical symptoms" = "Typical symptoms";
+"Increase in temperature;" = "Increase in temperature;";
+"Cough;" = "Cough;";
+"Fatigue;" = "Fatigue;";
+"Loss of taste or smell;" = "Loss of taste or smell;";
+"Difficulty breathing or shortness of breath;" = "Difficulty breathing or shortness of breath;";
+"Chest pain" = "Chest pain";
+"Warning!" = "Warning!";
+"Symptoms of Covid-19 are easily confused with SARS. If serious symptoms appear, you should immediately seek medical help!" = "Symptoms of Covid-19 are easily confused with SARS. If serious symptoms appear, you should immediately seek medical help!";
+"Disease prevention" = "Disease prevention";
+"Vaccinate as soon as possible;" = "Vaccinate as soon as possible;";
+"Keep a distance of at least 1 m from others;" = "Keep a distance of at least 1 m from others;";
+"Wear a well-fitting mask;" = "Wear a well-fitting mask;";
+"Avoid closed rooms, open windows in rooms;" = "Avoid closed rooms, open windows in rooms;";
+"Regularly wash your hands with soap and water or treat them with an alcohol-based antiseptic;" = "Regularly wash your hands with soap and water or treat them with an alcohol-based antiseptic;";
+"Determine the level of risk" = "Determine the level of risk";
+ 
+"Level of risk of Covid-19" = "Level of risk of Covid-19";
+"Question %s of %s" = "Question %s of %s";
+"Enter your gender" = "Enter your gender";
+"Woman" = "Woman";
+"Man" = "Man";
+"Question 2 of 6" = "Question 2 of 6";
+"Enter your date of birth" = "Enter your date of birth";
+"Question 3 of 6" = "Question 3 of 6";
+"Specify the height parameters" = "Specify the height parameters";
+"Question 4 of 6" = "Question 4 of 6";
+"Specify the weight parameters" = "Specify the weight parameters";
+"Calculating the body mass index..." = "Calculating the body mass index...";
+ 
+"Your body mass index:" = "Your body mass index:";
+"The data correspond to the norm!" = "The data correspond to the norm!";
+"Keep it up! Remember: being overweight or underweight can lead to the onset and development of diseases" = "Keep it up! Remember: being overweight or underweight can lead to the onset and development of diseases";
+ 
+"Deviation from the norm!" = "Deviation from the norm!";
+"BMI is higher than normal. Remember: being overweight or underweight can lead to the onset and development of diseases" = "BMI is higher than normal. Remember: being overweight or underweight can lead to the onset and development of diseases";
+ 
+"Question 5 of 6" = "Question 5 of 6";
+"Do you have vaccinations? If so, select the species and enter the date of vaccination" = "Do you have vaccinations? If so, select the species and enter the date of vaccination";
+"AstraZeneca" = "AstraZeneca";
+"CoronaVac (Sinovac)" = "CoronaVac (Sinovac)";
+"Comirnaty (Pfizer)" = "Comirnaty (Pfizer)";
+"Moderna" = "Moderna";
+"I do not have vaccinations" = "I do not have vaccinations";
+ 
+"Question 6 of 6" = "Question 6 of 6";
+"Do you have sleep disorders such as apnea, etc.?*" = "Do you have sleep disorders such as apnea, etc.?*";
+"No, I don’t have" = "No, I don’t have";
+"Yes, I have" = "Yes, I have";
+"* Known as apnea syndrome. Main symptoms: snoring, excessive movement during sleep, awakening and loud breathing" = "* Known as apnea syndrome. Main symptoms: snoring, excessive movement during sleep, awakening and loud breathing";
+"Find out the result" = "Find out the result";
+ 
+"Loading the result..." = "Loading the result...";
+ 
+"The data is in order, you are not in the risk group!" = "The data is in order, you are not in the risk group!";
+"You are not at risk of contracting the Covid-19 " = "You are not at risk of contracting the Covid-19 ";
+"This test is not a medical opinion! Consult a doctor for prevention and diagnosis!" = "This test is not a medical opinion! Consult a doctor for prevention and diagnosis!";
+"Done" = "Done";
+ 
+"Data is unstable, possible risk of infection!" = "Data is unstable, possible risk of infection!";
+"You are at risk of infection with the Covid-19 virus, we advise you to consult a doctor!" = "You are at risk of infection with the Covid-19 virus, we advise you to consult a doctor!";
+ 
+"Health indicators" = "Health indicators";
+"Saturation" = "Saturation";
+"Body temperature" = "Body temperature";
+"Add data" = "Add data";
+"Day" = "Day";
+"Week" = "Week";
+"Month" = "Month";
+"Half year" = "Half year";
+"Today" = "Today";
+"* Blood pressure is normal!" = "* Blood pressure is normal!";
+"Увага" = "Увага";
+"About blood pressure" = "About blood pressure";
+"Blood pressure is the force with which blood presses against the walls of arteries. Systolic blood pressure corresponds to the pressure during contraction of the heart (systole), diastolic blood pressure - when the heart relaxes (diastole)." = "Blood pressure is the force with which blood presses against the walls of arteries. Systolic blood pressure corresponds to the pressure during contraction of the heart (systole), diastolic blood pressure - when the heart relaxes (diastole).";
+"Age 30+;" = "Age 30+;";
+"Heredity;" = "Heredity;";
+"Overweight and obesity;" = "Overweight and obesity;";
+"Smoking;" = "Smoking;";
+"Food factors (table salt, coffee, strong tea, alcohol, etc.);" = "Food factors (table salt, coffee, strong tea, alcohol, etc.);";
+"Sedentary lifestyle" = "Sedentary lifestyle";
+"Increased pressure;" = "Increased pressure;";
+"Headache (most often — in the occipital or parietal part);" = "Headache (most often — in the occipital or parietal part);";
+"Periodic tinnitus, darkening of the eyes and dizziness;" = "Periodic tinnitus, darkening of the eyes and dizziness;";
+"Rapid heartbeat;" = "Rapid heartbeat;";
+"Feeling of suffocation" = "Feeling of suffocation";
+"If serious symptoms appear, you should immediately call for medical help!" = "If serious symptoms appear, you should immediately call for medical help!";
+"Limit the use of salt;" = "Limit the use of salt;";
+"Reduce alcohol consumption;" = "Reduce alcohol consumption;";
+"Give up smoking;" = "Give up smoking;";
+"Have regular physical activity;" = "Have regular physical activity;";
+"Maintain a normal body weight" = "Maintain a normal body weight";
+"* Blood pressure is high!" = "* Blood pressure is high!";
+"If a deviation from the norm is recorded within a few days, we advise you to consult a doctor!" = "If a deviation from the norm is recorded within a few days, we advise you to consult a doctor!";
+"* Blood pressure is unstable!" = "* Blood pressure is unstable!";
+"The average value of the indicator is normal, but deviations were recorded." = "The average value of the indicator is normal, but deviations were recorded.";
+"No data available" = "No data available";
+"Date" = "Date";
+"Time" = "Time";
+"Systolic (top)" = "Systolic (top)";
+"Diastolic (bottom)" = "Diastolic (bottom)";
+ 
+"Notification" = "Notification";
+"Feedback" = "Feedback";
+"«Blood pressure»: possible critical condition" = "«Blood pressure»: possible critical condition";
+"«Name» has the current indicator that may lead to a critical condition. We have not received a response from the user. Do you need a doctorʼs consultation? *" = "«Name» has the current indicator that may lead to a critical condition. We have not received a response from the user. Do you need a doctorʼs consultation? *";
+"The current \"Blood pressure\" indicator can lead to a critical condition. Do you need a doctor's consultation?*" = "The current \"Blood pressure\" indicator can lead to a critical condition. Do you need a doctor's consultation?*";
+"We received your request! The doctor will contact you soon!" = "We received your request! The doctor will contact you soon!";
+"Your feedback is important to us!" = "Your feedback is important to us!";
+"* If we do not receive a response, we will try to contact the members of your family group" = "* If we do not receive a response, we will try to contact the members of your family group";
+"* If we do not receive a response, we will try to contact the user \"Name\" again" = "* If we do not receive a response, we will try to contact the user \"Name\" again";
+"We strive to become better for you! Please answer two questions so we can improve our services" = "We strive to become better for you! Please answer two questions so we can improve our services";
+"Call the doctor" = "Call the doctor";
+"Consultation is not required" = "Consultation is not required";
+"Take a survey" = "Take a survey";
+ 
+"Question 1 of 2" = "Question 1 of 2";
+"Question 2 of 2" = "Question 2 of 2";
+"A doctor should have contacted you recently. Have you received a consultation?" = "A doctor should have contacted you recently. Have you received a consultation?";
+"Did you manage to solve your question?" = "Did you manage to solve your question?";
+"No, the doctor did not provide a consultation" = "No, the doctor did not provide a consultation";
+"Yes, the doctor gave a consultation" = "Yes, the doctor gave a consultation";
+"No, clarification needed" = "No, clarification needed";
+"Yes, the issue is resolved" = "Yes, the issue is resolved";
+"We are glad that your question has been resolved!" = "We are glad that your question has been resolved!";
+"Thanks for the feedback! You help to improve the quality of consultation!" = "Thanks for the feedback! You help to improve the quality of consultation!";
+"Complete the survey" = "Complete the survey";
+"We will look into this situation to improve the quality of communication with the doctor! Do you still need a doctorʼs consultation?" = "We will look into this situation to improve the quality of communication with the doctor! Do you still need a doctorʼs consultation?";
+"We are sorry that your question has not been resolved!" = "We are sorry that your question has not been resolved!";
+"We are sorry that the doctor did not contact you!" = "We are sorry that the doctor did not contact you!";
+"We will look into this situation to improve the quality of communication with the doctor!" = "We will look into this situation to improve the quality of communication with the doctor!";
+ 
+"Medical help from the Assistant in the MISU chat!" = "Medical help from the Assistant in the MISU chat!";
+"In the chat, you can ask for help from the Assistant, as well as consult with a doctor" = "In the chat, you can ask for help from the Assistant, as well as consult with a doctor";
+"Start" = "Start";
+"All chats" = "All chats";
+"MISU Assistant" = "MISU Assistant";
+"Congratulations! Your data has been transferred to the doctor. Wait for the call..." = "Congratulations! Your data has been transferred to the doctor. Wait for the call...";
+"Anastasia Horodyshchenko" = "Anastasia Horodyshchenko";
+"Your symptoms are similar to Covid! Take the test so we can..." = "Your symptoms are similar to Covid! Take the test so we can...";
+"Pin" = "Pin";
+"Remove" = "Remove";
+"Unpin" = "Unpin";
+"The current indicator \"Blood pressure\" reading can lead to a critical condition. Please answer whether you need a doctor's consultation." = "The current indicator \"Blood pressure\" reading can lead to a critical condition. Please answer whether you need a doctor's consultation.";
+"Outgoing call" = "Outgoing call";
+"Write a message..." = "Write a message...";
+"Remember that you can always contact a doctor if necessary." = "Remember that you can always contact a doctor if necessary.";
+ 
+"Connection with bracelet" = "Connection with bracelet";
+"Device search" = "Device search";
+"No devices found" = "No devices found";
+"To connect the watch correctly, make sure of the following:" = "To connect the watch correctly, make sure of the following:";
+"Bluetooth is enabled on the smartphone;" = "Bluetooth is enabled on the smartphone;";
+"Your watch is not connected to other devices" = "Your watch is not connected to other devices";
+"Track your health easily and conveniently!" = "Track your health easily and conveniently!";
+"To start tracking your metrics, connect your watch or order a MISU Watch" = "To start tracking your metrics, connect your watch or order a MISU Watch";
+"Connect the watch" = "Connect the watch";
+"Get MISU Watch" = "Get MISU Watch";
+"Try again" = "Try again";
+"Not connected" = "Not connected";
+"Connected" = "Connected";
+"Intensive health monitoring" = "Intensive health monitoring";
+"Sleep" = "Sleep";
+"Steps" = "Steps";
+"h" = "h";
+"thousand" = "thousand";
+"Blood pressure" = "Blood pressure";
+"Settings" = "Settings";
+"Change bracelet settings" = "Change bracelet settings";
+"Frequency of scanning indicators" = "Frequency of scanning indicators";
+"Intensive monitoring" = "Intensive monitoring";
+"Mode of intensive health monitoring" = "Mode of intensive health monitoring";
+"Turn on the mode so that the indicators are scanned more often even when the application is closed" = "Turn on the mode so that the indicators are scanned more often even when the application is closed";
+"Importantly!" = "Importantly!";
+"* Greater activity of devices may require more frequent recharging;" = "* Greater activity of devices may require more frequent recharging;";
+"** App mode requires VPN access, which is enabled automatically" = "** App mode requires VPN access, which is enabled automatically";
+"Update indicators every:" = "Update indicators every:";
+"minutes" = "minutes";
+"Intensive health monitoring is activated" = "Intensive health monitoring is activated";
+"You can always change the frequency of reading indicators in the clock settings" = "You can always change the frequency of reading indicators in the clock settings";
+"Save" = "Save";
+"Intensive health monitoring is not activated" = "Intensive health monitoring is not activated";
+"The watch is not connected to the application. Connect the watch to enable intensive monitoring mode" = "The watch is not connected to the application. Connect the watch to enable intensive monitoring mode";
+ 
+"y." = "y.";
+"Male" = "Male";
+"Female" = "Female";
+"male" = "Male";
+"female" = "Female";
+"Gender" = "Gender";
+"Height (cm)" = "Height (cm)";
+"Weight (kg)" = "Weight (kg)";
+"Blood type" = "Blood type";
+"Add to group" = "Add to group";
+"July" = "July";
+"Sat" = "Sat";
+"Sun" = "Sun";
+"Mon" = "Mon";
+"Tue" = "Tue";
+"Wed" = "Wed";
+"Thu" = "Thu";
+"Fri" = "Fri";
+"All indicators are normal" = "All indicators are normal";
+"No unstable indicators were recorded for this day" = "No unstable indicators were recorded for this day";
+"Alpha Insurance" = "Alpha Insurance";
+"Taking care of the main thing, for you and your loved ones" = "Taking care of the main thing, for you and your loved ones";
+"Deviation from the norm" = "Deviation from the norm";
+"During this day, unstable indicators were recorded: \"Blood pressure\"; you also had a consultation with a doctor" = "During this day, unstable indicators were recorded: \"Blood pressure\"; you also had a consultation with a doctor";
+"Add a family member" = "Add a family member";
+"Delete family group" = "Delete family group";
+"Family access" = "Family access";
+"Invitation to a family group" = "Invitation to a family group";
+"Invite your loved ones to MISU to access each otherʼs health metrics" = "Invite your loved ones to MISU to access each otherʼs health metrics";
+"The request for \"name\" has been successfully sent!" = "The request for \"name\" has been successfully sent!";
+"The contact has received your invitation to join MISU" = "The contact has received your invitation to join MISU";
+"Add" = "Add";
+"Request sent successfully!" = "Request sent successfully!";
+"The number owner has received your invitation to join MISU" = "The number owner has received your invitation to join MISU";
+"Error sending invitation" = "Error sending invitation";
+"Deleting a family group" = "Deleting a family group";
+"Are you sure you want to delete the family group?" = "Are you sure you want to delete the family group?";
+"The specified number is not valid. Please try sending the invite again" = "The specified number is not valid. Please try sending the invite again";
+"Delete group" = "Delete group";
+"Forbid" = "Forbid";
+"Allow" = "Allow";
+"General indicators" = "General indicators";
+ 
+"Enter a phone number" = "Enter a phone number";
+"We will send an SMS with a code to confirm the number" = "We will send an SMS with a code to confirm the number";
+"By clicking continue, you agree to the terms of the privacy policy" = "By clicking continue, you agree to the terms of the privacy policy";
+"Confirmation of registration" = "Confirmation of registration";
+"Completion of registration" = "Completion of registration";
+"Enter your general details to complete the registration process *" = "Enter your general details to complete the registration process *";
+"Full name" = "Full name";
+"* All fields are mandatory" = "* All fields are mandatory";
+"Please enter your first and last name in full" = "Please enter your first and last name in full";
+ 
+"About the heartbeat" = "About the heartbeat";
+"Heart rate (HR) is the number of beats (contractions) of the heart in one minute. The normal heart rate may vary from person to person, depending on individual characteristics." = "Heart rate (HR) is the number of beats (contractions) of the heart in one minute. The normal heart rate may vary from person to person, depending on individual characteristics.";
+"Normal heart rate" = "Normal heart rate";
+"Persons over 18 years of age: from 60 to 100 beats per minute;" = "Persons over 18 years of age: from 60 to 100 beats per minute;";
+"Children: 70 to 100 beats per minute" = "Children: 70 to 100 beats per minute";
+"The main reasons for changes in heart rate" = "The main reasons for changes in heart rate";
+"Age (heart rate may increase with age);" = "Age (heart rate may increase with age);";
+"Level of physical activity;" = "Level of physical activity;";
+"Weight;" = "Weight;";
+"Cardiovascular diseases;" = "Cardiovascular diseases;";
+"Endocrine and hormonal disorders;" = "Endocrine and hormonal disorders;";
+"Air temperature and humidity;" = "Air temperature and humidity;";
+"Emotional condition;" = "Emotional condition;";
+"Smoking" = "Smoking";
+"We recommend you to visit the doctor:" = "We recommend you to visit the doctor:";
+"If in a calm state the heart rate regularly exceeds 100 bpm (tachycardia);" = "If in a calm state the heart rate regularly exceeds 100 bpm (tachycardia);";
+"If in a calm state the heart rate is regularly below 60 bpm (bradycardia)." = "If in a calm state the heart rate is regularly below 60 bpm (bradycardia).";
+"Do not postpone a visit to the doctor if you have other symptoms: shortness of breath, dizziness, loss of consciousness, etc." = "Do not postpone a visit to the doctor if you have other symptoms: shortness of breath, dizziness, loss of consciousness, etc.";
+ 
+"Body temperature" = "Body temperature";
+"About body temperature" = "About body temperature";
+"Body temperature is a general indicator of the thermal state of the human body. The temperature stabilizes in adolescence." = "Body temperature is a general indicator of the thermal state of the human body. The temperature stabilizes in adolescence.";
+"In a person suffering from some diseases, the body temperature changes - this is a protective reaction of the body." = "In a person suffering from some diseases, the body temperature changes - this is a protective reaction of the body.";
+"Normal body temperature" = "Normal body temperature";
+"The body temperature of a healthy person is considered normal if it is 36.5-37.2°C at rest in the middle of the day." = "The body temperature of a healthy person is considered normal if it is 36.5-37.2°C at rest in the middle of the day.";
+"The main causes of low temperature" = "The main causes of low temperature";
+"Hypothermia;" = "Hypothermia;";
+"Decreased function of the thyroid gland;" = "Decreased function of the thyroid gland;";
+"Stroke;" = "Stroke;";
+"Anorexia;" = "Anorexia;";
+"Parkinsonʼs disease;" = "Parkinsonʼs disease;";
+"Damage to the nervous system;" = "Damage to the nervous system;";
+"Use of alcohol, drugs" = "Use of alcohol, drugs";
+"Temperature below 35°C is dangerous! A temperature lower than 36°C is considered dangerous for newborns and babies." = "Temperature below 35°C is dangerous! A temperature lower than 36°C is considered dangerous for newborns and babies.";
+"The main causes of high temperature" = "The main causes of high temperature";
+"Viruses;" = "Viruses;";
+"Bacterial infections;" = "Bacterial infections;";
+"Heatstroke;" = "Heatstroke;";
+"Chronic inflammatory diseases;" = "Chronic inflammatory diseases;";
+"Vaccination;" = "Vaccination;";
+"Some medicines" = "Some medicines";
+"When adults need a doctorʼs consultation" = "When adults need a doctorʼs consultation";
+"You are always cold, and your hands and feet are wet and cold;" = "You are always cold, and your hands and feet are wet and cold;";
+"Fever for 3 weeks, even without other symptoms;" = "Fever for 3 weeks, even without other symptoms;";
+"If the body temperature is 39.5°C and above;" = "If the body temperature is 39.5°C and above;";
+"Body temperature is elevated for 3 days;" = "Body temperature is elevated for 3 days;";
+"If you have other symptoms, such as: sore throat, headache, chest pain, neck pain, vomiting, rash" = "If you have other symptoms, such as: sore throat, headache, chest pain, neck pain, vomiting, rash";
+"norm" = "norm";
+"About saturation" = "About saturation";
+"Oxygen saturation in the blood is the percentage of hemoglobin saturated with oxygen (oxyhemoglobin) to the total concentration of hemoglobin in the blood. A decrease in saturation threatens the functional capacity of important organs (brain, heart, kidneys)." = "Oxygen saturation in the blood is the percentage of hemoglobin saturated with oxygen (oxyhemoglobin) to the total concentration of hemoglobin in the blood. A decrease in saturation threatens the functional capacity of important organs (brain, heart, kidneys).";
+"Saturation rate" = "Saturation rate";
+"The normal level of oxygen saturation of arterial blood in a person is 95-100%." = "The normal level of oxygen saturation of arterial blood in a person is 95-100%.";
+"Typical symptoms of low oxygen levels" = "Typical symptoms of low oxygen levels";
+"Chest pain;" = "Chest pain;";
+"Dyspnea;" = "Dyspnea;";
+"Headache;" = "Headache;";
+"Dizziness;" = "Dizziness;";
+"Frequent heartbeat;" = "Frequent heartbeat;";
+"Bluing of mucous membranes, nails, skin" = "Bluing of mucous membranes, nails, skin";
+"In case of acute manifestations of symptoms and loss of consciousness, you should immediately consult a doctor!" = "In case of acute manifestations of symptoms and loss of consciousness, you should immediately consult a doctor!";
+"Diseases in which oxygen deficiency is possible" = "Diseases in which oxygen deficiency is possible";
+"Anemia;" = "Anemia;";
+"Asthma;" = "Asthma;";
+"Congenital heart defects;" = "Congenital heart defects;";
+"Acute respiratory distress syndrome;" = "Acute respiratory distress syndrome;";
+"Pneumonia;" = "Pneumonia;";
+"Swelling of the lungs (edema);" = "Swelling of the lungs (edema);";
+"Thromboembolism of the pulmonary artery;" = "Thromboembolism of the pulmonary artery;";
+"Sleep apnea, etc." = "Sleep apnea, etc.";
+"Recommendations for increasing saturation" = "Recommendations for increasing saturation";
+"Avoid passive smoking (avoid smoky places);" = "Avoid passive smoking (avoid smoky places);";
+"Have regular physical activity" = "Have regular physical activity";
+ 
+"8 h 00 min" = "8 h 00 min";
+"Deep sleep" = "Deep sleep";
+"Light sleep" = "Light sleep";
+"Fast sleep" = "Fast sleep";
+"Awakening" = "Awakening";
+"Sleep quality:" = "Sleep quality:";
+"Satisfactory" = "Satisfactory";
+"Falling asleep:" = "Falling asleep:";
+"Norm: 22:00-23:00" = "Norm: 22:00-23:00";
+"Awakening:" = "Awakening:";
+"Rate: 1-2 times" = "Rate: 1-2 times";
+"Duration of sleep:" = "Duration of sleep:";
+"Norm: 6-10 hours" = "Norm: 6-10 hours";
+ 
+"Recommended sleep schedule" = "Recommended sleep schedule";
+"Do you go to bed too late or too early?" = "Do you go to bed too late or too early?";
+"More dreams!" = "More dreams!";
+"Do you feel awake after sleeping?" = "Do you feel awake after sleeping?";
+"Read" = "Read";
+ 
+ 
+"If you sleep little, try to sleep more during the day. It is best to have a nap in the afternoon lasting from one hour." = "If you sleep little, try to sleep more during the day. It is best to have a nap in the afternoon lasting from one hour.";
+"Do not neglect sleep! A good rest will help the body to be stronger and fight diseases better, and productivity will increase many times." = "Do not neglect sleep! A good rest will help the body to be stronger and fight diseases better, and productivity will increase many times.";
+"After waking up, it is recommended to move and warm up:" = "After waking up, it is recommended to move and warm up:";
+"Do physical exercises;" = "Do physical exercises;";
+"Go for a run;" = "Go for a run;";
+"Swim in the pool" = "Swim in the pool";
+"Activity after sleep will give you energy for the whole day." = "Activity after sleep will give you energy for the whole day.";
+"Normal sleep should last from 7 to 9 hours, depending on your characteristics." = "Normal sleep should last from 7 to 9 hours, depending on your characteristics.";
+ 
+"In order for the sleep to be of high quality and as effective as possible, it is important to follow the regime. It is necessary to go to bed and get up at the same time. It is best to fall asleep between 22:00 and 00:00." = "In order for the sleep to be of high quality and as effective as possible, it is important to follow the regime. It is necessary to go to bed and get up at the same time. It is best to fall asleep between 22:00 and 00:00.";
+"You can set yourself up to fall asleep easily by following simple recommendations:" = "You can set yourself up to fall asleep easily by following simple recommendations:";
+"Ventilate the room before going to bed;" = "Ventilate the room before going to bed;";
+"Give up gadgets 1 hour before bedtime;" = "Give up gadgets 1 hour before bedtime;";
+"Have dinner at least 2 hours before bedtime and do not overeat;" = "Have dinner at least 2 hours before bedtime and do not overeat;";
+"Light from small candles will help the brain to relax and adjust to sleep" = "Light from small candles will help the brain to relax and adjust to sleep";
+ 
+"Almost all dreams that a person sees fall into the phase of REM sleep. In order to see more dreams, follow simple recommendations:" = "Almost all dreams that a person sees fall into the phase of REM sleep. In order to see more dreams, follow simple recommendations:";
+"Set a short alarm 1.5-2 hours before you plan to wake up in the morning;" = "Set a short alarm 1.5-2 hours before you plan to wake up in the morning;";
+"Place something that has a pleasant aroma (home fragrance, etc.) in the sleeping area or next to you;" = "Place something that has a pleasant aroma (home fragrance, etc.) in the sleeping area or next to you;";
+"Concentrate on what you would like to see in a dream;" = "Concentrate on what you would like to see in a dream;";
+"Before going to bed, fix your attention on the clock for a time interval of 1.5-2 hours before the planned awakening" = "Before going to bed, fix your attention on the clock for a time interval of 1.5-2 hours before the planned awakening";
+ 
+"Try to avoid stimulants and sedatives. They negatively affect general sleep, its quality and sedative effect." = "Try to avoid stimulants and sedatives. They negatively affect general sleep, its quality and sedative effect.";
+"An hour before bedtime, do not be distracted by gadgets, but give preference to quiet time, for example:" = "An hour before bedtime, do not be distracted by gadgets, but give preference to quiet time, for example:";
+"reading a book;" = "reading a book;";
+"communication with family;" = "communication with family;";
+"spending time in the fresh air" = "spending time in the fresh air";
+"2 hours before bedtime, it is better to refrain from tasty food. It is the phase of deep sleep that helps us feel energetic and energetic." = "2 hours before bedtime, it is better to refrain from tasty food. It is the phase of deep sleep that helps us feel energetic and energetic.";
+"Normal blood pressure" = "Normal blood pressure";
+"The average indicator is considered to be 120/80 mm Hg, however, depending on age and individual characteristics, the indicator may change" = "The average indicator is considered to be 120/80 mm Hg, however, depending on age and individual characteristics, the indicator may change";
+"Reduce stress" = "Reduce stress";
+ 
+"Insulin" = "Insulin";
+"mU/l" = "mU/l";
+"About insulin" = "About insulin";
+"Insulin is the main hormone of the pancreas, which affects many aspects of metabolism in almost all tissues." = "Insulin is the main hormone of the pancreas, which affects many aspects of metabolism in almost all tissues.";
+"Insulin rate" = "Insulin rate";
+"The normal level of insulin for women and men is considered to be from 3 to 25 milliunits per liter." = "The normal level of insulin for women and men is considered to be from 3 to 25 milliunits per liter.";
+"Imbalance consequences" = "Imbalance consequences";
+"Insulin deficiency can cause type I diabetes. The pancreas does not cope with its functions: the amount of synthesized hormone does not process the entire amount of glucose, so the blood sugar level rises;" = "Insulin deficiency can cause type I diabetes. The pancreas does not cope with its functions: the amount of synthesized hormone does not process the entire amount of glucose, so the blood sugar level rises;";
+"Too much insulin or too much insulin can lead to type II diabetes because the body's tissues become insensitive to the hormone." = "Too much insulin or too much insulin can lead to type II diabetes because the body's tissues become insensitive to the hormone.";
+"Type I diabetes" = "Type I diabetes";
+"Reasons:" = "Reasons:";
+"Viruses that affect the pancreas;" = "Viruses that affect the pancreas;";
+"Conditions associated with the destruction of insulin-producing cells of the pancreas" = "Conditions associated with the destruction of insulin-producing cells of the pancreas";
+"Signs of type I diabetes:" = "Signs of type I diabetes:";
+"Increased thirst;" = "Increased thirst;";
+"Frequent urination;" = "Frequent urination;";
+"Constant feeling of hunger;" = "Constant feeling of hunger;";
+"Constant feeling of fatigue;" = "Constant feeling of fatigue;";
+"Sharp weight loss" = "Sharp weight loss";
+"Type II diabetes" = "Type II diabetes";
+"Risk factors:" = "Risk factors:";
+"Stress;" = "Stress;";
+"Overweight;" = "Overweight;";
+"Suffered trauma or serious illness;" = "Suffered trauma or serious illness;";
+"Increased blood pressure;" = "Increased blood pressure;";
+"Age 40+" = "Age 40+";
+"Signs of type II diabetes:" = "Signs of type II diabetes:";
+"Feeling tired;" = "Feeling tired;";
+"Dryness and itching of the skin;" = "Dryness and itching of the skin;";
+"Constant feeling of hunger and thirst;" = "Constant feeling of hunger and thirst;";
+"Wounds that do not heal for a long time;" = "Wounds that do not heal for a long time;";
+"Deterioration of vision" = "Deterioration of vision";
+"If you or your relatives have more than two risk factors, we recommend getting tested for diabetes!" = "If you or your relatives have more than two risk factors, we recommend getting tested for diabetes!";
+"Prevention of diabetes" = "Prevention of diabetes";
+"Follow a healthy and balanced diet;" = "Follow a healthy and balanced diet;";
+"Make it a habit to exercise regularly;" = "Make it a habit to exercise regularly;";
+"Maintain a normal body weight;" = "Maintain a normal body weight;";
+"See your doctor to prevent complications" = "See your doctor to prevent complications";
+"A note on the procedure for collecting blood for analysis" = "A note on the procedure for collecting blood for analysis";
+"The last meal should be 8-12 hours before the analysis;" = "The last meal should be 8-12 hours before the analysis;";
+"One day before the analysis, exclude fatty food;" = "One day before the analysis, exclude fatty food;";
+"One day before the analysis, exclude alcohol;" = "One day before the analysis, exclude alcohol;";
+"It is allowed to drink water" = "It is allowed to drink water";
+"Each case is special, so we recommend consulting a doctor before collecting blood!" = "Each case is special, so we recommend consulting a doctor before collecting blood!";
+ 
+"Glucose (sugar)" = "Glucose (sugar)";
+"About glucose" = "About glucose";
+"Glucose is a simple sugar, the main source of energy for the human body. The carbohydrates we eat are broken down into glucose and other simple sugars." = "Glucose is a simple sugar, the main source of energy for the human body. The carbohydrates we eat are broken down into glucose and other simple sugars.";
+"The norm of glucose in the blood" = "The norm of glucose in the blood";
+"Adults: 3.5-5.7 mmol/l;" = "Adults: 3.5-5.7 mmol/l;";
+"Children: 4.2-6.4 mmol/l;" = "Children: 4.2-6.4 mmol/l;";
+"Elderly people and pregnant women: 3.3-6.5 mmol/l" = "Elderly people and pregnant women: 3.3-6.5 mmol/l";
+"Pregnancy can trigger the development of diabetes. Therefore, pregnant women need to regularly take blood sugar tests!" = "Pregnancy can trigger the development of diabetes. Therefore, pregnant women need to regularly take blood sugar tests!";
+"Factors contributing to an increase in sugar levels" = "Factors contributing to an increase in sugar levels";
+"Unstable emotional state;" = "Unstable emotional state;";
+"Unhealthy diet;" = "Unhealthy diet;";
+"Smoking" = "Smoking";
+"Signs that may indicate an increase in sugar levels" = "Signs that may indicate an increase in sugar levels";
+"Constant thirst;" = "Constant thirst;";
+"Dry mouth;" = "Dry mouth;";
+"Itching of the skin and mucous membranes;" = "Itching of the skin and mucous membranes;";
+"General weakness, constant feeling of fatigue" = "General weakness, constant feeling of fatigue";
+"Diseases with an elevated level of glucose" = "Diseases with an elevated level of glucose";
+"Diabetes;" = "Diabetes;";
+"Endocrine disorders;" = "Endocrine disorders;";
+"Diseases of the pancreas (pancreatitis, cystic fibrosis);" = "Diseases of the pancreas (pancreatitis, cystic fibrosis);";
+"Chronic liver and kidney diseases;" = "Chronic liver and kidney diseases;";
+"Myocardial infarction" = "Myocardial infarction";
+"Avoid physical activity the day before the analysis;" = "Avoid physical activity the day before the analysis;";
+"Give up an excessive amount of sweets for dinner;" = "Give up an excessive amount of sweets for dinner;";
+"It is necessary to come to the laboratory in the morning on an empty stomach: the use of food and water is prohibited;" = "It is necessary to come to the laboratory in the morning on an empty stomach: the use of food and water is prohibited;";
+"When taking daily pills, it is allowed to drink a glass of water" = "When taking daily pills, it is allowed to drink a glass of water";
+ 
+"User profile" = "User profile";
+"Language change" = "Language change";
+"Help" = "Help";
+"Sign out of your account" = "Sign out of your account";
+"Change picture" = "Change picture";
+"Personal parameters" = "Personal parameters";
+"cm" = "cm";
+"kg" = "kg";
+"Delete profile" = "Delete profile";
+"Choose from the gallery" = "Choose from the gallery";
+"Take a picture" = "Take a picture";
+"Delete current photo" = "Delete current photo";
+"Second name" = "Second name";
+"First name" = "First name";
+ 
+"Date of birth" = "Date of birth";
+"Height" = "Height";
+"Weight" = "Weight";
+"Deleting a profile" = "Deleting a profile";
+"Data cannot be recovered if the profile is deleted. Are you sure you want to delete your profile?" = "Data cannot be recovered if the profile is deleted. Are you sure you want to delete your profile?";
+ 
+"Choose the type of your profile" = "Choose the type of your profile";
+"I am a user" = "I am a user";
+"I am a doctor" = "I am a doctor";
+ 
+"Step 1 of 3" = "Step 1 of 3";
+"Step 2 of 3" = "Step 2 of 3";
+"Choose a specialization" = "Choose a specialization";
+"Choose 3 tags that characterize your activity:" = "Choose 3 tags that characterize your activity:";
+"Step 3 of 3" = "Step 3 of 3";
+"Add your photo to your profile" = "Add your photo to your profile";
+"Upload a photo" = "Upload a photo";
+ 
+"Partners of MISU" = "Partners of MISU";
+"Those we trust" = "Those we trust";
+"See" = "See";
+ 
+"The heartbeat has regular deviations from the norm" = "The heartbeat has regular deviations from the norm";
+"We recommend taking a heart disease risk test to prevent possible complications" = "We recommend taking a heart disease risk test to prevent possible complications";
+"Pass a test" = "Pass a test";
+"Blood pressure has regular deviations from the norm" = "Blood pressure has regular deviations from the norm";
+"It is necessary to pass a test on the risk of developing heart disease to prevent possible complications" = "It is necessary to pass a test on the risk of developing heart disease to prevent possible complications";
+"Heart diseases" = "Heart diseases";
+ 
+"Cardiovascular diseases (CVD)" = "Cardiovascular diseases (CVD)";
+"CVD is the most common cause of death in the world. Ischemic disease is the main cause of mortality from cardiovascular diseases." = "CVD is the most common cause of death in the world. Ischemic disease is the main cause of mortality from cardiovascular diseases.";
+"CVD includes the following diseases:" = "CVD includes the following diseases:";
+"Ischemic heart disease (angina, myocardial infarction);" = "Ischemic heart disease (angina, myocardial infarction);";
+ 
+"Heart failure (associated with high blood pressure);" = "Heart failure (associated with high blood pressure);";
+"Cardiomyopathy;" = "Cardiomyopathy;";
+"Arrhythmia;" = "Arrhythmia;";
+"Congenital and acquired heart defects;" = "Congenital and acquired heart defects;";
+"Aortic aneurysm;" = "Aortic aneurysm;";
+"Thrombosis;" = "Thrombosis;";
+"Thrombophlebitis" = "Thrombophlebitis";
+ 
+"Age 55+;" = "Age 55+;";
+"Genetic factors: if the parents were sick with CVD, the risk of the disease increases three times;" = "Genetic factors: if the parents were sick with CVD, the risk of the disease increases three times;";
+"Overweight;" = "Overweight;";
+"Low physical activity;" = "Low physical activity;";
+"Smoking and excessive alcohol consumption" = "Smoking and excessive alcohol consumption";
+"Typical symptoms of heart attacks and strokes" = "Typical symptoms of heart attacks and strokes";
+"Sudden weakness of the face, arm or leg, mainly on one side of the body;" = "Sudden weakness of the face, arm or leg, mainly on one side of the body;";
+"Pain or discomfort in the center of the chest;" = "Pain or discomfort in the center of the chest;";
+"Pain or discomfort in the hands, left shoulder, elbows, back and jaw;" = "Pain or discomfort in the hands, left shoulder, elbows, back and jaw;";
+"Nausea;" = "Nausea;";
+"Feeling unclear or unconscious;" = "Feeling unclear or unconscious;";
+"Cold sweat" = "Cold sweat";
+"Prevention of cardiovascular diseases" = "Prevention of cardiovascular diseases";
+"Lead a healthy and active lifestyle;" = "Lead a healthy and active lifestyle;";
+"Avoid stress and learn to cope with it;" = "Avoid stress and learn to cope with it;";
+"Control the level of blood pressure and glucose;" = "Control the level of blood pressure and glucose;";
+"Have a regular medical examination" = "Have a regular medical examination";
+ 
+"The level of risk of heart disease" = "The level of risk of heart disease";
+"Question 1 of 9" = "Question 1 of 9";
+"Do you feel pain in the chest, head, shoulder or forearm?" = "Do you feel pain in the chest, head, shoulder or forearm?";
+"No, I don't feel it" = "No, I don't feel it";
+"Yes, I feel it" = "Yes, I feel it";
+"Specify the nature of the pain:" = "Specify the nature of the pain:";
+"Burning pain" = "Burning pain";
+"Pulling pain" = "Pulling pain";
+"Sharp pain" = "Sharp pain";
+"Discomfort" = "Discomfort";
+"Dull pain" = "Dull pain";
+"Pressing pain" = "Pressing pain";
+"Have you recently fainted?" = "Have you recently fainted?";
+"No, it didn't happen" = "No, it didn't happen";
+"Yes, it happened" = "Yes, it happened";
+ 
+"Do you have shortness of breath at rest?" = "Do you have shortness of breath at rest?";
+"No, it doesn't happen" = "No, it doesn't happen";
+"It happens" = "It happens";
+ 
+"Do you feel swelling of the lower extremities in the evening?" = "Do you feel swelling of the lower extremities in the evening?";
+"Difficult to answer" = "Difficult to answer";
+ 
+"Do you have a tendency to diabetes?" = "Do you have a tendency to diabetes?";
+"No, there isn't" = "No, there isn't";
+"Yes, I have" = "Yes, I have";
+ 
+"Do you have a habit of smoking?" = "Do you have a habit of smoking?";
+"No problems with the work of the heart were detected!" = "No problems with the work of the heart were detected!";
+ 
+"For the prevention of cardiovascular diseases, it is necessary:" = "For the prevention of cardiovascular diseases, it is necessary:";
+"Data is unstable, probable risk of disease!" = "Data is unstable, probable risk of disease!";
+"Carefully monitor the state of heart health and, in case of deterioration, consult a doctor!" = "Carefully monitor the state of heart health and, in case of deterioration, consult a doctor!";
+"WARNING! Possible problems in the work of the heart!" = "WARNING! Possible problems in the work of the heart!";
+"We recommend that you consult a doctor as soon as possible!" = "We recommend that you consult a doctor as soon as possible!";
+"Passport series *" = "Passport series *";
+"Refresh" = "Refresh";
+ 
+"Automatic health insurance in the amount of UAH 50,000/year" = "Automatic health insurance in the amount of UAH 50,000/year";
+"MISU\'s partner in taking care of your health" = "MISU\'s partner in taking care of your health";
+"22 years" = "22 years";
+"On the insurance market of Ukraine" = "On the insurance market of Ukraine";
+"top 5" = "top 5";
+"From health insurance" = "From health insurance";
+"+10500" = "+10500";
+"Medical partners" = "Medical partners";
+"1,000,000" = "1,000,000";
+"Customers who trust the company" = "Customers who trust the company";
+"uaAA+" = "uaAA+";
+"Very high level of financial reliability" = "Very high level of financial reliability";
+"* The medical assistant works only on the territory of Ukraine, except for the temporarily occupied territories" = "* The medical assistant works only on the territory of Ukraine, except for the temporarily occupied territories";
+ 
+"Online consultations of doctors 24/7" = "Online consultations of doctors 24/7";
+"The doctor establishes a diagnosis, the necessary course of treatment and a list of medications" = "The doctor establishes a diagnosis, the necessary course of treatment and a list of medications";
+"Hospitalization in a hospital if the health condition is critical" = "Hospitalization in a hospital if the health condition is critical";
+"The medical assistance service is valid for 12 months from the date of purchase of the MISU Watch" = "The medical assistance service is valid for 12 months from the date of purchase of the MISU Watch";
+"The amount for which medical assistance can be provided during the year is up to UAH 50,000" = "The amount for which medical assistance can be provided during the year is up to UAH 50,000";
+ 
+"Phone number *" = "Phone number *";
+"Authority" = "Authority";
+"Date of issue *" = "Date of issue *";
+"* Mandatory field. These data are necessary for issuing a medical policy" = "* Mandatory field. These data are necessary for issuing a medical policy";
+ 
+"Specialist consultations: psychologist, ENT, neurologist, endocrinologist, gynecologist, urologist, dermatologist (unlimited);" = "Specialist consultations: psychologist, ENT, neurologist, endocrinologist, gynecologist, urologist, dermatologist (unlimited);";
+"24/7 family doctor consultations" = "24/7 family doctor consultations";
+ 
+"I confirm the data specified in the Health Declaration" = "I confirm the data specified in the Health Declaration";
+"Acquainted with and agrees with the public offer of Alfa Insurance" = "Acquainted with and agrees with the public offer of Alfa Insurance";
+"Acquainted with MISU\'s public offer" = "Acquainted with MISU\'s public offer";
+"* By clicking on the check box, you consent to the processing of personal data in accordance with the \"Law of Ukraine on the Protection of Personal Data\" and the public offer of IC \"Alfa Insurance\"" = "* By clicking on the check box, you consent to the processing of personal data in accordance with the \"Law of Ukraine on the Protection of Personal Data\" and the public offer of IC \"Alfa Insurance\"";
+ 
+"The voluntary health insurance contract remains to be signed" = "The voluntary health insurance contract remains to be signed";
+"Enter the code received on the number:" = "Enter the code received on the number:";
+"Sign the contract" = "Sign the contract";
+ 
+"The possibilities of MISU are open for use!" = "The possibilities of MISU are open for use!";
+"Bracelet using" = "Bracelet using";
+"Health reports" = "Health reports";
+"Consultations of doctors" = "Consultations of doctors";
+"Forecasts and recommendations" = "Forecasts and recommendations";
+ 
+"Notification of possible health threats — Assistant notifies about possible negative changes even before they occur;*" = "Notification of possible health threats — Assistant notifies about possible negative changes even before they occur;*";
+"Online Assistant 24/7 — you can contact the doctor at any time for a consultation without restrictions for 12 months;" = "Online Assistant 24/7 — you can contact the doctor at any time for a consultation without restrictions for 12 months;";
+"* MISU Watch (or other device) measures indicators and after data analysis sends a health report with personal recommendations. In case of a critical situation, it sends a notification with a prediction of possible negative changes in health" = "* MISU Watch (or other device) measures indicators and after data analysis sends a health report with personal recommendations. In case of a critical situation, it sends a notification with a prediction of possible negative changes in health";
+ 
+"Alfa Insurance — taking care of the main thing, for you and your loved ones" = "Alfa Insurance — taking care of the main thing, for you and your loved ones";
+"Partners" = "Partners";
+"Bad" = "Bad";
+"Normal" = "Normal";
+"Excellent" = "Excellent";
+ 
+"Number confirmation" = "Number confirmation";
+"Please check and try entering the code again, or click send code again" = "Please check and try entering the code again, or click send code again";
+ 
+"Enter your basic details to complete the registration process *" = "Enter your basic details to complete the registration process *";
+"Do you really want to log out?" = "Do you really want to log out?";
+"Log out" = "Log out";
+"Deleting a member" = "Deleting a member";
+"Are you sure you want to remove " = "Are you sure you want to remove ";
+" from the family group?" = " from the family group?";
+"Delete member" = "Delete member";
+ 
+"Remove from family group" = "Remove from family group";
+"Organizer" = "Organizer";
+"Waiting (2)" = "Waiting (2)";
+"User" = "User";
+"Add member" = "Add member";
+"The contact received your invitation to join the Family Group" = "The contact received your invitation to join the Family Group";
+"The number you entered is incorrect, please check and try entering the number again" = "The number you entered is incorrect, please check and try entering the number again";
+"Leave the group" = "Leave the group";
+"Reduce the level of stress;" = "Reduce the level of stress;";
+"Suffered trauma or serious illness;" = "Suffered trauma or serious illness;";
+"Loading your data..." = "Loading your data...";
+"You are not at risk of Covid-19" = "You are not at risk of Covid-19";
+"Data is unstable, possible risk!" = "Data is unstable, possible risk!";
+"You are in the risk group of Covid-19, we advise you to consult a doctor!" = "You are in the risk group of Covid-19, we advise you to consult a doctor!";
+"Transportation by ambulance" = "Transportation by ambulance";
+"Prevented cases of pre-infarction condition" = "Prevented cases of pre-infarction condition";
+"Damage to capillaries in diabetes is prevented" = "Damage to capillaries in diabetes is prevented";
+ 
+"Activation" = "Activation";
+
+"sec" = "sec";
+"min" = "min";
+
+"Describe your question" = "Describe your question";
+"Last name" = "Last name";
+"Paternal name" = "Paternal name";
+"Invalid name format" = "Invalid name format";
+"Incorrect last name format" = "Incorrect last name format";

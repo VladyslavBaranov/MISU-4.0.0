@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<!--
+   iAps.plist
+   CoronaVirTracker
+
+   Created by Vladyslav Baranov on 10.02.2023.
+   Copyright (c) 2023 CVTCompany. All rights reserved.
+-->
+
+<plist version="1.0">
+<dict>
+    <key>Products</key>
+    <array>
+        <string>com.misu.monthlysubscription</string>
+        <string>com.misu.yearsubscription</string>
+    </array>
+</dict>
+</plist>

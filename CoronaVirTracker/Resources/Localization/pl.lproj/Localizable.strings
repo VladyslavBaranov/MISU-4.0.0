@@ -1,0 +1,874 @@
+/* 
+  Localizable.strings
+  CoronaVirTracker
+
+  Created by Dmitriy Kruglov on 4/2/20.
+  Copyright © 2020 CVTCompany. All rights reserved.
+*/
+
+// GENERAL UI
+"wc_str_4" = "Anuluj";
+"gui_add" = "Dodaj";
+"gui_update" = "Aktualizacja";
+"gui_v" = "Wersja";
+
+// TIME
+"datetime_date" = "Data";
+"datetime_time" = "Czas";
+"datetime_day" = "Dzień";
+"datetime_week" = "Tydzień";
+"datetime_month" = "Miesiąc";
+"datetime_year" = "Rok";
+"datetime_today" = "Dziś";
+
+// UNITS
+"unit_heart" = "uderzeń/min";
+"unit_pressure" = "mm Hg";
+"unit_insuline" = "mmol/l";
+
+// WATCH CONNECTION
+"wc_str_1" = "Podłącz\nbransoletkę";
+"wc_str_2" = "Wyszukiwanie urządzeń";
+"wc_str_3" = "Nie połączony";
+
+// HEART RATE
+"hrr_str_1" = "Informacje o uderzeniu serca";
+"hrr_str_2" = "Tętno (HR) to liczba uderzeń (skurczów) serca w ciągu jednej minuty. Normalne tętno może różnić się u poszczególnych osób, w zależności od indywidualnych cech.";
+"hrr_str_3" = "Normalne tętno";
+"hrr_str_4" = "Informacje o uderzeniu serca";
+"hrr_str_5" = "Osoby powyżej 18 roku życia: od 60 do 100 uderzeń na minutę;";
+"hrr_str_6" = "Dzieci: od 70 do 100 uderzeń na minutę";
+"hrr_str_7" = "Główne przyczyny zmian tętna";
+"hrr_str_8" = "Wiek (tętno może wzrosnąć wraz z wiekiem);";
+"hrr_str_9" = "Poziom aktywności fizycznej;";
+"hrr_str_10" = "Waga;";
+"hrr_str_11" = "Choroby sercowo-naczyniowe;";
+"hrr_str_12" = "Zaburzenia endokrynologiczne i hormonalne;";
+"hrr_str_13" = "Temperatura i wilgotność powietrza;";
+"hrr_str_14" = "Stan emocjonalny;";
+"hrr_str_15" = "Palenie";
+"hrr_str_16" = "Zalecamy wizytę u lekarza:";
+"hrr_str_17" = "Jeśli w spokojnym stanie tętno regularnie przekracza 100 uderzeń na minutę (tachykardia);\nJeśli w spokojnym stanie tętno regularnie spada poniżej 60 uderzeń na minutę (bradykardia).\mNie odkładaj wizyty u lekarza, jeśli mają inne objawy: duszności, zawroty głowy, utratę przytomności itp.";
+"hrr_str_18" = "Zredukuj poziom stresu;";
+"hrr_str_19" = "Rzuć palenie;";
+"hrr_str_20" = "Utrzymuj regularną aktywność fizyczną;";
+"hrr_str_21" = "Utrzymuj normalną wagę ciała";
+"hrr_str_22" = "Zapobieganie chorobom";
+
+"Welcome to MISU Assistant!" = "Witamy w Asystencie MISU!";
+"Your personal doctor" = "Twój osobisty lekarz";
+"Consultations at any time 24/7" = "Konsultacje o każdej porze 24/7";
+"Predicts the health risks and informs about it" = "Przewiduje zagrożenia dla zdrowia i informuje o nich";
+"See on the health statistics over time" = "Zobacz statystyki zdrowia w czasie";
+"MISU bracelet for your health" = "Bransoletka MISU dla zdrowia";
+"MISU Assistant is thousands of lives saved" = "Asystent MISU to tysiące uratowanych istnień";
+"Cases of threat of a stroke are prevented" = "Zapobiega się przypadkom zagrożenia udarem";
+"Prevention of severe pneumonia" = "Zapobieganie ciężkiemu zapaleniu płuc";
+"Users around the world trust the  Assistant" = "Użytkownicy na całym świecie ufają Asystentowi";
+"World" = "Świat";
+"53K" = "53 tys.";
+"MISU Assistant helps users recover" = "Asystent MISU pomaga użytkownikom odzyskać zdrowie";
+"Prevented diseases" = "Zapobieganie chorobom";
+"Contact with doctor" = "Skierowanie do lekarza";
+"Follow the health trends around you and in the world" = "Śledź trendy zdrowotne wokół Ciebie i na świecie";
+
+"mm Hg *" = "mm Hg*";
+"* average value of the indicator" = "* średnia wartość wskaźnika";
+"Activate MISU Assistant" = "Aktywuj Asystenta MISU";
+ 
+"Buy" = "Kup";
+"MISU takes care of you" = "MISU troszczy się o Ciebie";
+"Basic insurance policy \"Care\" for everyone" = "Całodobowa opieka lekarska";
+"Protect your health every day" = "Ochrona zdrowia na co dzień";
+"Basic insurance policy from Alpha Insurance" = "Wiedz ryzyko udaru lub zawału serca";
+ 
+"MISU Assistant 24/7" = "Asystent MISU 24/7";
+"An assistant is always here when you need an urgent consultation" = "Asystent jest zawsze pod ręką, gdy potrzebujesz pilnej porady";
+"Call" = "Zadzwoń";
+"Text" = "Napisz";
+"Health indicators" = "Wskaźniki zdrowia osobistego";
+"More" = "Więcej";
+"Blood Sugar Glucose" = "Zawartość cukru we krwi";
+"Heartbeat" = "Palpitacja";
+"mmol/L" = "mmol/l";
+"beats/min" = "uderzeń/min";
+"My Assistant" = "Mój Asystent";
+"Doctor Online" = "Lekarz Online";
+"Risk group" = "Grupa ryzyka";
+"How the MISU Assistant works" = "Jak działa Asystent";
+"Personal assistant 24/7" = "Osobisty asystent 24/7";
+"Menu" = "Menu";
+"Assistant" = "Asystent";
+"Bracelet" = "Bransoletka";
+"My family" = "Moja rodzina";
+"Info" = "Info";
+ 
+"Family doctor" = "Lekarz rodzinny";
+"Pediatrician" = "Pediatra";
+"Endocrinologist" = "Endokrynolog";
+"Children 0-16 yr." = "Dzieci 0-16 lat";
+"Adults" = "Dorośli";
+"Covid-19" = "Covid-19";
+"Children 7-16 yr." = "Dzieci 7-16 lat";
+"Children 0-3 yr." = "Dzieci 0-3 lat";
+ 
+"Doctorʼs profile" = "Profil lekarza";
+"About the Doctor" = "O lekarzu";
+"Read more" = "Czytaj więcej";
+"Send a message" = "Napisać wiadomość";
+"Make a call" = "Zadzwonić";
+"Hide" = "Ukryć";
+ 
+"Assistant Activation" = "Aktywacja Asystenta";
+"Cancel" = "Anulować";
+"Welcome!" = "Gratulacje!";
+"MISU Assistant activation is almost complete!" = "Aktywacja Asystenta MISU jest prawie zakończona!";
+"Now you will be protected by the MISU Assistant, and our doctors are always in touch!" = "Teraz będziesz chroniony dzięki Asystentowi MISU, a nasi lekarze są zawsze w kontakcie!";
+"UAH 50,000 / year -— sum insured per insured person" = "";
+"Telemedicine -— online consultations with doctors 24/7" = "Telemedycyna — konsultacje online z lekarzami 24/7";
+"Departure of the ambulance within 30 km from the city" = "";
+"Expenses for medicines and emergency drug therapy" = "";
+"Initial medical examination" = "";
+"Activate MISU Assistant" = "Aktywuj Asystenta";
+ 
+"How does the MISU Assistant work?" = "Jak działa Asystent MISU?";
+"After activating the Assistant, you can access health care services with MISU Watch (or another device):" = "Po aktywacji Asystenta możesz uzyskać dostęp do usług medycznych za pomocą MISU Watch (lub innego urządzenia):";
+"Online Assistant 24/7 — you can contact the doctor at any time for a consultation without restrictions for 12 months;" = "";
+"Emergency call — the possibility of calling in the application in case of a critical situation 2 times within 12 months;" = "";
+"Transportation by ambulance — up to UAH 50,000 to cover the costs of hospitalization within 12 months;" = "";
+"* MISU Watch (or other device) measures indicators and after data analysis sends a health report with personal recommendations. In case of a critical situation, it sends a notification with a prediction of possible negative changes in health" = "* Zegarek MISU (lub inne urządzenie) mierzy wskaźniki i po analizie danych wysyła raport o stanie zdrowia z osobistymi zaleceniami. W sytuacji krytycznej wysyła powiadomienie z prognozą ewentualnych negatywnych zmian w stanie zdrowia";
+"How to use?" = "";
+"In the mobile application, go to the \"My Assistant\" section" = "";
+"Click the «Call» / «Mail» button to contact the MISU Assistant" = "";
+"Tell us what kind of problem do you have" = "";
+"The coordinator will organize an online consultation with the necessary doctor at a convenient time for you" = "";
+ 
+"Step %s of %s" = "Krok %s z %s";
+"Enter the main data" = "Wprowadź dane podstawowe";
+"Full Name *" = "Imię i nazwisko *";
+"Date of birth *" = "Data urodzenia *";
+"E-mail *" = "E-mail *";
+"* Required field. We will send an insurance policy to your e-mail" = "* Rechurowane pole. ";
+"Next" = "Dalej";
+ 
+"Step 2 of 5" = "Krok 2 z 5";
+"Enter your address" = "Wpisz swój adres";
+"Country *" = "Kraj *";
+"City *" = "Miasto *";
+"Delivery method *" = "Sposób dostawy *";
+"Delivery address *" = "Adres dostawy *";
+"* Required field. We will send an insurance policy to the specified delivery address later" = "* Pole obowiązkowe.";
+ 
+"Passport number *" = "В пл не беремо особисту інфу";
+"Enter the TIN and passport data" = "";
+"Choose passport type *" = "";
+"ID card" = "";
+"Passport of a citizen of Ukraine" = "";
+"* Required field. These data are necessary for registration of the medical policy" = "";
+"I am acquainted with the Law of Ukraine \"On Personal Data Protection\" and consent to the processing of personal data" = "";
+"TIN *" = "";
+"The TIN must contain 10 digits. Enter again" = "В пл не беремо особисту інфу";
+"The ID card must contain 9 digits. Enter again" = "";
+"The passport series must contain 2 characters. Enter again" = "";
+ 
+"Step 4 of 5" = "Krok 4 z 5";
+"Data verification" = "Weryfikacja danych";
+"Basic data" = "Podstawowe dane";
+"Phone number" = "Numer telefonu";
+"E-mail" = "E-mail";
+"Address" = "Adres zamieszkania";
+"Country" = "Kraj";
+"City" = "Miasto";
+"Method of delivery" = "Sposób dostawy";
+"Delivery address" = "Adres dostawy";
+"TIN and passport data" = "NIP i dane paszportowe";
+"TIN" = "NIP";
+"Type of passport" = "Rodzaj paszportu";
+ 
+"Step 5 of 5" = "Кроку 5 в польській версії поки нема";
+"Acquaintance and agreement with the terms of insurance" = "";
+"Pay attention!" = "";
+"The age of the insured person should be 18-65 years" = "";
+"The sum insured per insured person is UAH 50,000 / year" = "";
+"The insurance period is 1 year" = "";
+"The insurance provides:" = "";
+"Telemedicine - online consultations of a therapist / family doctor / pediatrician, narrow specialists (unlimited);" = "";
+"Ambulance:" = "";
+"a) Departure of the ambulance within 30 km from the city;" = "";
+"b) Initial examination by a doctor, preliminary diagnosis, emergency care for vital signs (purchase of acute (critical) conditions, emergency drug therapy;" = "";
+"c) Transportation to a medical institution;" = "";
+"d) Hospitalization in an inpatient department" = "";
+"I agree with everything" = "";
+"I am acquainted with and agree with the procedure for concluding the Contract and the terms of insurance specified in the Offer" = "";
+"Acquainted with the declaration of health of the insured person at the link" = "";
+"I agree to the processing of my personal data by the Insurance Company on the terms specified in the Offer" = "";
+ 
+"Finishing of activation" = "Zakończenie aktywacji";
+"The code was sent to the number" = "Kod został wysłany na numer";
+"Send the code again" = "Wyślij kod ponownie";
+"Finish" = "Skończyć";
+"MISU Assistant and Watch are open for use!" = "Asystent i Bransoletka MISU są gotowe do użytku!";
+"Unlimited health care options are now available to you!" = "Nieograniczone opcje opieki zdrowotnej są teraz dostępne!";
+"Okay" = "Dobra";
+ 
+"Invalid number format. Enter again" = "Nieprawidłowy format liczb. Wprowadź ponownie";
+"Invalid e-mail format. Enter again" = "Niewłaściwy format wiadomości email. Wprowadź ponownie";
+"The code must contain 3 digits and 1 letter" = "Kod musi zawierać 3 cyfry i 1 literę";
+"You will be able to resend the code in:" = "Kod będzie można ponownie wysłać w ciągu:";
+ 
+"About Covid-19" = "O Covid-19";
+"Corona virus infection (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus." = "Koronawirus (COVID-19) — jest chorobą zakaźną wywoływaną przez wirus SARS-CoV-2.";
+"Most people infected with the virus experience mild to moderate symptoms of respiratory illness and recover without the need for special treatment. At the same time, in some people, it occurs in a severe form that requires medical intervention." = "Większość osób zarażonych wirusem doświadcza łagodnych do umiarkowanych objawów choroby układu oddechowego i wraca do zdrowia bez potrzeby specjalnego leczenia. Jednocześnie u niektórych osób występuje w ciężkiej postaci, która wymaga interwencji medycznej.";
+"Risk factors" = "Czynniki ryzyka";
+"Age 65+;" = "Wiek 65+;";
+"The presence of background pathologies, in particular cardiovascular, chronic respiratory, oncological diseases and diabetes;" = "Obecność patologii tła, w szczególności chorób sercowo-naczyniowych, przewlekłych chorób układu oddechowego, onkologicznych i cukrzycy;";
+"Direct contact with the infected person" = "Bezpośredni kontakt z chorą ludziną";
+"Typical symptoms" = "Typowe objawy";
+"Increase in temperature;" = "Wzrost temperatury;";
+"Cough;" = "Kaszel;";
+"Fatigue;" = "Zmęczenie;";
+"Loss of taste or smell;" = "Utrata smaku lub zapachu;";
+"Difficulty breathing or shortness of breath;" = "Trudności w oddychaniu lub duszność;";
+"Chest pain" = "Ból w klatce piersiowej";
+"Warning!" = "Ostrzeżenie!";
+"Symptoms of Covid-19 are easily confused with SARS. If serious symptoms appear, you should immediately seek medical help!" = "Objawy Covid-19 można łatwo pomylić z SARS. W przypadku pojawienia się poważnych objawów należy natychmiast zwrócić się o pomoc medyczną!";
+"Disease prevention" = "Zapobieganie chorobom";
+"Vaccinate as soon as possible;" = "Zaszczep się jak najszybciej;";
+"Keep a distance of at least 1 m from others;" = "Zachowaj odległość co najmniej 1 m od innych;";
+"Wear a well-fitting mask;" = "Noś dobrze dopasowaną maskę;";
+"Avoid closed rooms, open windows in rooms;" = "Unikaj zamkniętych pomieszczeń, otwieraj okna w pokojach;";
+"Regularly wash your hands with soap and water or treat them with an alcohol-based antiseptic;" = "Regularnie myj ręce mydłem i wodą lub traktuj je środkiem antyseptycznym na bazie alkoholu;";
+"Determine the level of risk" = "Określ poziom ryzyka";
+ 
+"Level of risk of Covid-19" = "Poziom ryzyka Covid-19";
+"Question %s of %s" = "Pytanie %s z %s";
+"Enter your gender" = "Wpisz swoją płeć";
+"Woman" = "Kobieta";
+"Man" = "Mężczyzna";
+"Question 2 of 6" = "Pytanie 2 z 6";
+"Enter your date of birth" = "Wpisz swoją datę urodzenia";
+"Question 3 of 6" = "Pytanie 3 z 6";
+"Specify the height parameters" = "Określ parametry wysokości";
+"Question 4 of 6" = "Pytanie 4 z 6";
+"Specify the weight parameters" = "Określ parametry wagi";
+"Calculating the body mass index..." = "Obliczamy wskaźnik masy ciała...";
+ 
+"Your body mass index:" = "Twój wskaźnik masy ciała:";
+"The data correspond to the norm!" = "Dane zgodne z normą!";
+"Keep it up! Remember: being overweight or underweight can lead to the onset and development of diseases" = "Tak trzymaj! Pamiętaj: nadwaga lub niedowaga może prowadzić do wystąpienia i rozwoju chorób";
+ 
+"Deviation from the norm!" = "Odchylenie od normy!";
+"BMI is higher than normal. Remember: being overweight or underweight can lead to the onset and development of diseases" = "BMI jest wyższy niż normalnie. Pamiętaj: nadwaga lub niedowaga może prowadzić do wystąpienia i rozwoju chorób";
+ 
+"Question 5 of 6" = "Pytanie 5 z 6";
+"Do you have vaccinations? If so, select the species and enter the date of vaccination" = "Czy masz szczepienia? Jeśli tak, wybierz gatunek i wpisz datę szczepienia";
+"AstraZeneca" = "AstraZeneca";
+"CoronaVac (Sinovac)" = "CoronaVac (Sinovac)";
+"Comirnaty (Pfizer)" = "Comirnaty (Pfizer)";
+"Moderna" = "Moderna";
+"I do not have vaccinations" = "Nie mam szczepień";
+ 
+"Question 6 of 6" = "Pytanie 6 z 6";
+"Do you have sleep disorders such as apnea, etc.?*" = "Czy masz zaburzenia snu, takie jak bezdech itp.?*";
+"No, I don’t have" = "Nie mam";
+"Yes, I have" = "Tak, mam";
+"* Known as apnea syndrome. Main symptoms: snoring, excessive movement during sleep, awakening and loud breathing" = "* Znany jako zespół bezdechu. Główne objawy: chrapanie, nadmierny ruch podczas snu, przebudzenie i głośny oddech";
+"Find out the result" = "";
+ 
+"Loading the result..." = "Ładowanie wyniku...";
+ 
+"The data is in order, you are not in the risk group!" = "Dane są w porządku, nie jesteś w grupie ryzyka!";
+"You are not at risk of contracting the Covid-19 " = "Nie jesteś narażony na zarażenie się wirusem Covid-19";
+"This test is not a medical opinion! Consult a doctor for prevention and diagnosis!" = "Ten test nie jest opinią lekarską! Skonsultuj się z lekarzem w celu zapobiegania i diagnozy!";
+"Done" = "Gotowe";
+ 
+"Data is unstable, possible risk of infection!" = "Dane są niestabilne, możliwe ryzyko infekcji!";
+"You are at risk of infection with the Covid-19 virus, we advise you to consult a doctor!" = "Istnieje ryzyko zakażenia wirusem Covid-19, radzimy skonsultować się z lekarzem!";
+ 
+"Health indicators" = "Wskaźniki zdrowia";
+"Saturation" = "Nasycenie";
+"Body temperature" = "Temperatura ciała";
+"Add data" = "Dodaj dane";
+"Day" = "Dzień";
+"Week" = "Tydzień";
+"Month" = "Księżyc";
+"Half year" = "Pół roku";
+"Today" = "Dziś";
+"* Blood pressure is normal!" = "* Ciśnienie krwi jest normalne!";
+"Увага" = "Twoje dane są stabilne. Jeśli pojawią się jakiekolwiek odstępstwa od normy, poinformujemy o tym.";
+"About blood pressure" = "O ciśnieniu krwi";
+"Blood pressure is the force with which blood presses against the walls of arteries. Systolic blood pressure corresponds to the pressure during contraction of the heart (systole), diastolic blood pressure - when the heart relaxes (diastole)." = "Ciśnienie krwi to siła, z jaką krew naciska na ściany tętnic. Skurczowe ciśnienie krwi odpowiada ciśnieniu podczas skurczu serca (skurczu), rozkurczowemu ciśnieniu krwi – gdy serce się rozluźnia (rozkurcz).";
+"Age 30+;" = "Wiek 30+;";
+"Heredity;" = "Dziedziczność;";
+"Overweight and obesity;" = "Nadwaga i otyłość;";
+"Smoking;" = "Palenie;";
+"Food factors (table salt, coffee, strong tea, alcohol, etc.);" = "Czynniki żywnościowe (sól kuchenna, kawa, mocna herbata, alkohol itp.);";
+"Sedentary lifestyle" = "Siedzący tryb życia";
+"Increased pressure;" = "Zwiększone ciśnienie;";
+"Headache (most often — in the occipital or parietal part);" = "Ból głowy (najczęściej — w części potylicznej lub ciemieniowej);";
+"Periodic tinnitus, darkening of the eyes and dizziness;" = "Okresowy szum w uszach, ciemnienie oczu i zawroty głowy;";
+"Rapid heartbeat;" = "Szybkie bicie serca;";
+"Feeling of suffocation" = "Uczucie uduszenia";
+"If serious symptoms appear, you should immediately call for medical help!" = "Jeśli pojawią się poważne objawy, należy natychmiast wezwać pomoc medyczną!";
+"Limit the use of salt;" = "Ogranicz użycie soli;";
+"Reduce alcohol consumption;" = "Zmniejsz spożycie alkoholu;";
+"Give up smoking;" = "Rzucić palenie;";
+"Have regular physical activity;" = "Regularnie uprawiaj aktywność fizyczną;";
+"Maintain a normal body weight" = "Utrzymuj prawidłową wagę ciała";
+"* Blood pressure is high!" = "* Ciśnienie krwi jest wysokie!";
+"If a deviation from the norm is recorded within a few days, we advise you to consult a doctor!" = "Jeśli odchylenie od normy zostanie odnotowane w ciągu kilku dni, radzimy skonsultować się z lekarzem!";
+"* Blood pressure is unstable!" = "* Ciśnienie krwi jest niestabilne!";
+"The average value of the indicator is normal, but deviations were recorded." = "Średnia wartość wskaźnika jest normalna, ale odnotowano odchylenia.";
+"No data available" = "Brak dostępnych danych";
+"Date" = "Data";
+"Time" = "Czas";
+"Systolic (top)" = "Skurczowe (u góry)";
+"Diastolic (bottom)" = "Rozkurczowe (na dole)";
+ 
+"Notification" = "Powiadomienie";
+"Feedback" = "Informacja zwrotna";
+"«Blood pressure»: possible critical condition" = "„Ciśnienie krwi”: możliwy stan krytyczny";
+"«Name» has the current indicator that may lead to a critical condition. We have not received a response from the user. Do you need a doctorʼs consultation? *" = "«» ma aktualny wskaźnik, który może prowadzić do stanu krytycznego. Nie otrzymaliśmy odpowiedzi od użytkownika. Potrzebujesz konsultacji lekarskiej? *";
+"The current \"Blood pressure\" indicator can lead to a critical condition. Do you need a doctor's consultation?*" = "Aktualny wskaźnik „Ciśnienia krwi” może prowadzić do stanu krytycznego. Potrzebujesz konsultacji lekarskiej?*";
+"We received your request! The doctor will contact you soon!" = "Otrzymaliśmy Twoją prośbę! Lekarz wkrótce się z Tobą skontaktuje!";
+"Your feedback is important to us!" = "Twoja opinia jest dla nas ważna!";
+"* If we do not receive a response, we will try to contact the members of your family group" = "* Jeśli nie otrzymamy odpowiedzi, postaramy się skontaktować z członkami Twojej grupy rodzinnej";
+"* If we do not receive a response, we will try to contact the user \"Name\" again" = "* Jeśli nie otrzymamy odpowiedzi, spróbujemy ponownie skontaktować się z użytkownikiem ";
+"We strive to become better for you! Please answer two questions so we can improve our services" = "Staramy się być dla Ciebie lepsi! Odpowiedz na dwa pytania, abyśmy mogli ulepszyć nasze usługi";
+"Call the doctor" = "Wezwać doktora";
+"Consultation is not required" = "Konsultacja nie jest wymagana";
+"Take a survey" = "Wypełnij ankietę";
+ 
+"Question 1 of 2" = "Pytanie 1 z 2";
+"Question 2 of 2" = "Pytanie 2 z 2";
+"A doctor should have contacted you recently. Have you received a consultation?" = "Lekarz powinien był niedawno skontaktować się z tobą. Otrzymałeś/aś konsultację?";
+"Did you manage to solve your question?" = "Czy udało Ci się rozwiązać swoje pytanie?";
+"No, the doctor did not provide a consultation" = "Nie, lekarz nie udzielił konsultacji";
+"Yes, the doctor gave a consultation" = "Tak, lekarz udzielił konsultacji";
+"No, clarification needed" = "Nie, potrzebne są wyjaśnienia";
+"Yes, the issue is resolved" = "Tak, problem został rozwiązany";
+"We are glad that your question has been resolved!" = "Cieszymy się, że Twoje pytanie zostało rozwiązane!";
+"Thanks for the feedback! You help to improve the quality of consultation!" = "Dzięki za opinie! Pomagasz poprawić jakość konsultacji!";
+"Complete the survey" = "Wypełnij ankietę";
+"We will look into this situation to improve the quality of communication with the doctor! Do you still need a doctorʼs consultation?" = "Przyjrzymy się tej sytuacji, aby poprawić jakość komunikacji z lekarzem! Czy nadal potrzebujesz konsultacji lekarskiej?";
+"We are sorry that your question has not been resolved!" = "Przepraszamy, że Twoje pytanie nie zostało rozwiązane!";
+"We are sorry that the doctor did not contact you!" = "Przepraszamy, że lekarz nie skontaktował się z Tobą!";
+"We will look into this situation to improve the quality of communication with the doctor!" = "Przyjrzymy się tej sytuacji, aby poprawić jakość komunikacji z lekarzem!";
+ 
+"Medical help from the Assistant in the MISU chat!" = "Pomoc medyczna od Asystenta na czacie MISU!";
+"In the chat, you can ask for help from the Assistant, as well as consult with a doctor" = "Na czacie możesz poprosić o pomoc Asystenta, a także skonsultować się z lekarzem";
+"Start" = "Zacząć";
+"All chats" = "Wszystkie czaty";
+"MISU Assistant" = "Asystent MISU";
+"Congratulations! Your data has been transferred to the doctor. Wait for the call..." = "Gratulacje! Twoje dane zostały przekazane lekarzowi. Poczekaj na telefon...";
+"Anastasia Horodyshchenko" = "Dagmara Juszczak";
+"Your symptoms are similar to Covid! Take the test so we can..." = "Twoje objawy są podobne do Covid! Zrób test, abyśmy mogli...";
+"Pin" = "Zapiąć";
+"Remove" = "Usunąć";
+"Unpin" = "Odpiąć";
+"The current indicator \"Blood pressure\" reading can lead to a critical condition. Please answer whether you need a doctor's consultation." = "Aktualny odczyt wskaźnika „Ciśnienie krwi” może prowadzić do stanu krytycznego. Odpowiedz, czy potrzebujesz konsultacji lekarskiej.";
+"Outgoing call" = "Połączenie wychodzące";
+"Write a message..." = "Napisać wiadomość...";
+"Remember that you can always contact a doctor if necessary." = "Pamiętaj, że w razie potrzeby zawsze możesz skontaktować się z lekarzem.";
+ 
+"Connection with bracelet" = "Połączenie z bransoletką";
+"Device search" = "Wyszukiwanie urządzeń";
+"No devices found" = "Nie znaleziono urządzeń";
+"To connect the watch correctly, make sure of the following:" = "Aby prawidłowo podłączyć zegarek, upewnij się, że:";
+"Bluetooth is enabled on the smartphone;" = "Bluetooth jest włączony w smartfonie;";
+"Your watch is not connected to other devices" = "Twój zegarek nie jest połączony z innymi urządzeniami";
+"Track your health easily and conveniently!" = "Śledź swoje zdrowie łatwo i wygodnie!";
+"To start tracking your metrics, connect your watch or order a MISU Watch" = "Aby rozpocząć śledzenie swoich danych, podłącz zegarek lub zamów MISU Watch";
+"Connect the watch" = "Podłącz zegarek";
+"Get MISU Watch" = "Kup MISU Watch";
+"Try again" = "Spróbuj ponownie";
+"Not connected" = "Nie połączony";
+"Connected" = "Połączony";
+"Intensive health monitoring" = "Intensywne monitorowanie stanu zdrowia";
+"Sleep" = "Sen";
+"Steps" = "Kroki";
+"h" = "g";
+"thousand" = "tysiąc";
+"Blood pressure" = "Ciśnienie krwi";
+"Settings" = "Ustawienia";
+"Change bracelet settings" = "Zmień ustawienia bransoletki";
+"Frequency of scanning indicators" = "Częstotliwość wskaźników skanowania";
+"Intensive monitoring" = "Intensywny monitoring";
+"Mode of intensive health monitoring" = "Tryb intensywnego monitorowania stanu zdrowia";
+"Turn on the mode so that the indicators are scanned more often even when the application is closed" = "Włącz tryb, aby wskaźniki były skanowane częściej, nawet gdy aplikacja jest zamknięta";
+"Importantly!" = "Ważne!";
+"* Greater activity of devices may require more frequent recharging;" = "* Większa aktywność urządzeń może wymagać częstszego ładowania;";
+"** App mode requires VPN access, which is enabled automatically" = "** Tryb aplikacji wymaga dostępu VPN, który jest włączany automatycznie";
+"Update indicators every:" = "Aktualizuj wskaźniki co:";
+"minutes" = "minuty";
+"Intensive health monitoring is activated" = "Włączono intensywne monitorowanie stanu zdrowia";
+"You can always change the frequency of reading indicators in the clock settings" = "Zawsze możesz zmienić częstotliwość odczytywania wskaźników w ustawieniach zegara";
+"Save" = "Ratować";
+"Intensive health monitoring is not activated" = "Intensywne monitorowanie stanu zdrowia nie jest włączone";
+"The watch is not connected to the application. Connect the watch to enable intensive monitoring mode" = "Zegarek nie jest połączony z aplikacją. Podłącz zegarek, aby włączyć tryb intensywnego monitorowania";
+ 
+"y." = "l.";
+"Male" = "Mężczyzna";
+"Female" = "Kobieta";
+"male" = "Mężczyzna";
+"female" = "Kobieta";
+"Gender" = "Płeć";
+"Height (cm)" = "Wzrost (cm)";
+"Weight (kg)" = "Waga (kg)";
+"Blood type" = "Grupa krwi";
+"Add to group" = "Dodaj do grupy";
+"July" = "Lipiec";
+"Sat" = "Sob.";
+"Sun" = "Niedz.";
+"Mon" = "Pon.";
+"Tue" = "Wt.";
+"Wed" = "Śr.";
+"Thu" = "Czw.";
+"Fri" = "Pt.";
+"All indicators are normal" = "Wszystkie wskaźniki są normalne";
+"No unstable indicators were recorded for this day" = "Na ten dzień nie odnotowano żadnych niestabilnych wskaźników";
+"Alpha Insurance" = "-";
+"Taking care of the main thing, for you and your loved ones" = "Dbanie o najważniejsze, dla Ciebie i Twoich bliskich";
+"Deviation from the norm" = "Odchylenie od normy";
+"During this day, unstable indicators were recorded: \"Blood pressure\"; you also had a consultation with a doctor" = "W tym dniu odnotowano niestabilne wskaźniki: „Ciśnienie krwi”; miałeś/aś też konsultację z lekarzem";
+"Add a family member" = "Dodaj członka rodziny";
+"Delete family group" = "Usuń grupę rodzinną";
+"Family access" = "Dostęp rodzinny";
+"Invitation to a family group" = "Zaproszenie do grupy rodzinnej";
+"Invite your loved ones to MISU to access each otherʼs health metrics" = "Zaproś swoich bliskich do MISU, aby uzyskać dostęp do swoich danych dotyczących zdrowia";
+"The request for \"name\" has been successfully sent!" = "Prośba o \"\" została pomyślnie wysłana!";
+"The contact has received your invitation to join MISU" = "Kontakt otrzymał Twoje zaproszenie do przyłączenia się do MISU";
+"Add" = "Dodać";
+"Request sent successfully!" = "Żądanie wysłane pomyślnie!";
+"The number owner has received your invitation to join MISU" = "Właściciel numeru otrzymał Twoje zaproszenie do przyłączenia się do MISU";
+"Error sending invitation" = "Błąd podczas wysyłania zaproszenia";
+"Deleting a family group" = "Usuwanie grupy rodzinnej";
+"Are you sure you want to delete the family group?" = "Czy na pewno chcesz usunąć grupę rodzinną?";
+"The specified number is not valid. Please try sending the invite again" = "Podany numer jest nieprawidłowy. Spróbuj ponownie wysłać zaproszenie";
+"Delete group" = "Usuń grupę";
+"Forbid" = "Zakazać";
+"Allow" = "Umożliwić";
+"General indicators" = "Wskaźniki ogólne";
+ 
+"Enter a phone number" = "Wprowadź numer telefonu";
+"We will send an SMS with a code to confirm the number" = "Wyślemy SMS z kodem potwierdzającym numer";
+"By clicking continue, you agree to the terms of" = "Klikając dalej, zgadzasz się z warunkami";
+" the privacy policy" = " polityki prywatności";
+"Confirmation of registration" = "Potwierdzenie rejestracji";
+"Completion of registration" = "Zakończenie rejestracji";
+"Enter your general details to complete the registration process *" = "Wprowadź swoje podstawowe dane, aby zakończyć proces rejestracji *";
+"Full name" = "Pełne imię i nazwisko";
+"* All fields are mandatory" = "* Wszystkie pola są obowiązkowe";
+"Please enter your first and last name in full" = "Podaj swoje imię i nazwisko w pełnym brzmieniu";
+ 
+"About the heartbeat" = "O biciu serca";
+"Heart rate (HR) is the number of beats (contractions) of the heart in one minute. The normal heart rate may vary from person to person, depending on individual characteristics." = "Tętno to liczba uderzeń (skurczów) serca w ciągu jednej minuty. Normalne tętno może się różnić w zależności od osoby, w zależności od indywidualnych cech.";
+"Normal heart rate" = "Normalne tętno";
+"Persons over 18 years of age: from 60 to 100 beats per minute;" = "Osoby powyżej 18 roku życia: od 60 do 100 uderzeń na minutę;";
+"Children: 70 to 100 beats per minute" = "Dzieci: 70 do 100 uderzeń na minutę";
+"The main reasons for changes in heart rate" = "Główne przyczyny zmian tętna";
+"Age (heart rate may increase with age);" = "Wiek (tętno może wzrastać wraz z wiekiem);";
+"Level of physical activity;" = "Poziom aktywności fizycznej;";
+"Weight;" = "Waga;";
+"Cardiovascular diseases;" = "Choroby sercowo-naczyniowe;";
+"Endocrine and hormonal disorders;" = "Zaburzenia endokrynologiczne i hormonalne;";
+"Air temperature and humidity;" = "Temperatura i wilgotność powietrza;";
+"Emotional condition;" = "Stan emocjonalny;";
+"Smoking" = "Palenie";
+"We recommend you to visit the doctor:" = "Polecamy wizytę u lekarza:";
+"If in a calm state the heart rate regularly exceeds 100 bpm (tachycardia);" = "Jeśli w stanie spokoju tętno regularnie przekracza 100 uderzeń na minutę (tachykardia);";
+"If in a calm state the heart rate is regularly below 60 bpm (bradycardia)." = "W stanie spokoju tętno regularnie spada poniżej 60 uderzeń na minutę (bradykardia).";
+"Do not postpone a visit to the doctor if you have other symptoms: shortness of breath, dizziness, loss of consciousness, etc." = "Nie odkładaj wizyty u lekarza, jeśli masz inne objawy: duszność, zawroty głowy, utratę przytomności itp.";
+ 
+"Body temperature" = "Temperatura ciała";
+"About body temperature" = "O temperaturze ciała";
+"Body temperature is a general indicator of the thermal state of the human body. The temperature stabilizes in adolescence." = "Temperatura ciała jest ogólnym wskaźnikiem stanu termicznego ludzkiego ciała. Temperatura stabilizuje się w okresie dojrzewania.";
+"In a person suffering from some diseases, the body temperature changes - this is a protective reaction of the body." = "U osoby cierpiącej na niektóre choroby zmienia się temperatura ciała - jest to reakcja ochronna organizmu.";
+"Normal body temperature" = "Normalna temperatura ciała";
+"The body temperature of a healthy person is considered normal if it is 36.5-37.2°C at rest in the middle of the day." = "Temperatura ciała zdrowej osoby jest uważana za normalną, jeśli wynosi 36,5-37,2°C w spoczynku w środku dnia.";
+"The main causes of low temperature" = "Główne przyczyny niskiej temperatury";
+"Hypothermia;" = "Hipotermia;";
+"Decreased function of the thyroid gland;" = "Zmniejszona funkcja tarczycy;";
+"Stroke;" = "Uderzenie;";
+"Anorexia;" = "Anoreksja;";
+"Parkinsonʼs disease;" = "Choroba Parkinsona;";
+"Damage to the nervous system;" = "Uszkodzenie układu nerwowego;";
+"Use of alcohol, drugs" = "Używanie alkoholu, narkotyków";
+"Temperature below 35°C is dangerous! A temperature lower than 36°C is considered dangerous for newborns and babies." = "Temperatura poniżej 35°C jest niebezpieczna! Temperatura poniżej 36°C jest uważana za niebezpieczną dla noworodków i niemowląt.";
+"The main causes of high temperature" = "Główne przyczyny wysokiej temperatury";
+"Viruses;" = "Wirusy;";
+"Bacterial infections;" = "Infekcje bakteryjne;";
+"Heatstroke;" = "Udar cieplny;";
+"Chronic inflammatory diseases;" = "Przewlekłe choroby zapalne;";
+"Vaccination;" = "Szczepionka;";
+"Some medicines" = "Niektóre leki";
+"When adults need a doctorʼs consultation" = "Kiedy dorośli potrzebują konsultacji lekarskiej";
+"You are always cold, and your hands and feet are wet and cold;" = "Zawsze jest ci zimno, a twoje ręce i stopy są mokre i zimne;";
+"Fever for 3 weeks, even without other symptoms;" = "Gorączka przez 3 tygodnie, nawet bez innych objawów;";
+"If the body temperature is 39.5°C and above;" = "Jeśli temperatura ciała wynosi 39,5°C i więcej;";
+"Body temperature is elevated for 3 days;" = "Temperatura ciała jest podwyższona przez 3 dni;";
+"If you have other symptoms, such as: sore throat, headache, chest pain, neck pain, vomiting, rash" = "Jeśli masz inne objawy, takie jak: ból gardła, ból głowy, ból w klatce piersiowej, ból szyi, wymioty, wysypka";
+"norm" = "norma";
+"About saturation" = "O nasyceniu";
+"Oxygen saturation in the blood is the percentage of hemoglobin saturated with oxygen (oxyhemoglobin) to the total concentration of hemoglobin in the blood. A decrease in saturation threatens the functional capacity of important organs (brain, heart, kidneys)." = "Nasycenie tlenem krwi to procent hemoglobiny wysyconej tlenem (oksyhemoglobina) do całkowitego stężenia hemoglobiny we krwi. Spadek nasycenia zagraża zdolności funkcjonalnej ważnych narządów (mózgu, serca, nerek).";
+"Saturation rate" = "Stopień nasycenia";
+"The normal level of oxygen saturation of arterial blood in a person is 95-100%." = "Normalny poziom nasycenia krwi tętniczej tlenem u osoby wynosi 95-100%.";
+"Typical symptoms of low oxygen levels" = "Typowe objawy niskiego poziomu tlenu";
+"Chest pain;" = "Ból w klatce piersiowej;";
+"Dyspnea;" = "duszność;";
+"Headache;" = "Ból głowy;";
+"Dizziness;" = "Zawroty głowy;";
+"Frequent heartbeat;" = "Częste bicie serca;";
+"Bluing of mucous membranes, nails, skin" = "Zabarwienie błon śluzowych, paznokci, skóry";
+"In case of acute manifestations of symptoms and loss of consciousness, you should immediately consult a doctor!" = "W przypadku ostrych objawów i utraty przytomności należy natychmiast skonsultować się z lekarzem!";
+"Diseases in which oxygen deficiency is possible" = "Choroby, w których możliwy jest niedobór tlenu";
+"Anemia;" = "Niedokrwistość;";
+"Asthma;" = "Astma;";
+"Congenital heart defects;" = "Wrodzone wady serca;";
+"Acute respiratory distress syndrome;" = "Zespół ostrej niewydolności oddechowej;";
+"Pneumonia;" = "Zapalenie płuc;";
+"Swelling of the lungs (edema);" = "Obrzęk płuc (obrzęk);";
+"Thromboembolism of the pulmonary artery;" = "choroba zakrzepowo-zatorowa tętnicy płucnej;";
+"Sleep apnea, etc." = "bezdech senny itp.";
+"Recommendations for increasing saturation" = "Zalecenia dotyczące zwiększenia nasycenia";
+"Avoid passive smoking (avoid smoky places);" = "Unikaj biernego palenia (unikaj zadymionych miejsc);";
+"Have regular physical activity" = "Regularnie uprawiaj aktywność fizyczną";
+ 
+"8 h 00 min" = "8 godz. 00 min";
+"Deep sleep" = "Głęboki sen";
+"Light sleep" = "Lekki sen";
+"Fast sleep" = "Szybki sen";
+"Awakening" = "Budzenie";
+"Sleep quality:" = "Jakość snu:";
+"Satisfactory" = "Zadowalający";
+"Falling asleep:" = "Zasypiam:";
+"Norm: 22:00-23:00" = "Norma: 22:00-23:00";
+"Awakening:" = "Budzenie:";
+"Rate: 1-2 times" = "Oceń: 1-2 razy";
+"Duration of sleep:" = "Czas snu:";
+"Norm: 6-10 hours" = "Norma: 6-10 godzin";
+ 
+"Recommended sleep schedule" = "Zalecany harmonogram snu";
+"Do you go to bed too late or too early?" = "Czy kładziesz się spać za późno czy za wcześnie?";
+"More dreams!" = "Więcej marzeń!";
+"Do you feel awake after sleeping?" = "Czy czujesz się obudzony po spaniu?";
+"Read" = "Czytać";
+ 
+ 
+"If you sleep little, try to sleep more during the day. It is best to have a nap in the afternoon lasting from one hour." = "Jeśli śpisz mało, staraj się spać więcej w ciągu dnia. Najlepiej popołudniową drzemkę trwającą od godziny.";
+"Do not neglect sleep! A good rest will help the body to be stronger and fight diseases better, and productivity will increase many times." = "Nie zaniedbuj snu! Dobry odpoczynek pomoże organizmowi stać się silniejszym i lepiej walczyć z chorobami, a wydajność wielokrotnie wzrośnie.";
+"After waking up, it is recommended to move and warm up:" = "Po przebudzeniu zaleca się ruch i rozgrzewkę:";
+"Do physical exercises;" = "Wykonuj ćwiczenia fizyczne;";
+"Go for a run;" = "Idź pobiegaj;";
+"Swim in the pool" = "Pływać w basenie";
+"Activity after sleep will give you energy for the whole day." = "Aktywność po śnie doda Ci energii na cały dzień.";
+"Normal sleep should last from 7 to 9 hours, depending on your characteristics." = "Normalny sen powinien trwać od 7 do 9 godzin, w zależności od twoich cech.";
+ 
+"In order for the sleep to be of high quality and as effective as possible, it is important to follow the regime. It is necessary to go to bed and get up at the same time. It is best to fall asleep between 22:00 and 00:00." = "Aby sen był wysokiej jakości i jak najbardziej efektywny, ważne jest przestrzeganie reżimu. Trzeba iść spać i wstawać w tym samym czasie. Najlepiej zasnąć między 22:00 a 00:00.";
+"You can set yourself up to fall asleep easily by following simple recommendations:" = "Możesz łatwo zasnąć, postępując zgodnie z prostymi zaleceniami:";
+"Ventilate the room before going to bed;" = "Przewietrz pomieszczenie przed pójściem spać;";
+"Give up gadgets 1 hour before bedtime;" = "Zrezygnuj z gadżetów na godzinę przed snem;";
+"Have dinner at least 2 hours before bedtime and do not overeat;" = "Zjedz kolację co najmniej 2 godziny przed snem i nie przejadaj się;";
+"Light from small candles will help the brain to relax and adjust to sleep" = "Światło małych świeczek pomoże mózgowi zrelaksować się i przyzwyczaić do snu";
+ 
+"Almost all dreams that a person sees fall into the phase of REM sleep. In order to see more dreams, follow simple recommendations:" = "Prawie wszystkie sny, które widzi osoba, wchodzą w fazę snu REM. Aby zobaczyć więcej snów, postępuj zgodnie z prostymi zaleceniami:";
+"Set a short alarm 1.5-2 hours before you plan to wake up in the morning;" = "Ustaw krótki alarm 1,5-2 godziny przed planowanym wstaniem rano;";
+"Place something that has a pleasant aroma (home fragrance, etc.) in the sleeping area or next to you;" = "Umieść coś, co ma przyjemny zapach (zapach domu itp.) w części sypialnej lub obok ciebie;";
+"Concentrate on what you would like to see in a dream;" = "Skoncentruj się na tym, co chciałbyś zobaczyć we śnie;";
+"Before going to bed, fix your attention on the clock for a time interval of 1.5-2 hours before the planned awakening" = "Przed pójściem spać na zegarze, zwróć uwagę na odstęp czasowy 1,5-2 godziny przed planowanym przebudzeniem";
+ 
+"Try to avoid stimulants and sedatives. They negatively affect general sleep, its quality and sedative effect." = "Staraj się unikać środków pobudzających i uspokajających. Wpływają negatywnie na ogólny sen, jego jakość oraz działanie uspokajające.";
+"An hour before bedtime, do not be distracted by gadgets, but give preference to quiet time, for example:" = "Na godzinę przed snem nie rozpraszaj się gadżetami, ale preferuj spokojny czas, na przykład:";
+"reading a book;" = "czytając książkę;";
+"communication with family;" = "komunikacja z rodziną;";
+"spending time in the fresh air" = "spędzanie czasu na świeżym powietrzu";
+"2 hours before bedtime, it is better to refrain from tasty food. It is the phase of deep sleep that helps us feel energetic and energetic." = "2 godziny przed snem lepiej powstrzymać się od smacznego jedzenia. Jest to faza głębokiego snu, która pomaga nam poczuć energię i energię.";
+"Normal blood pressure" = "Normalne ciśnienie krwi";
+"The average indicator is considered to be 120/80 mm Hg, however, depending on age and individual characteristics, the indicator may change" = "Za średni wskaźnik uważa się 120/80 mm Hg, jednak w zależności od wieku i indywidualnych cech wskaźnik może się zmieniać";
+"Reduce stress" = "Redukować stres";
+ 
+"Insulin" = "Insulina";
+"mU/l" = "mU/l";
+"About insulin" = "O insulinie";
+"Insulin is the main hormone of the pancreas, which affects many aspects of metabolism in almost all tissues." = "Insulina to główny hormon trzustki, który wpływa na wiele aspektów metabolizmu w prawie wszystkich tkankach.";
+"Insulin rate" = "Szybkość insuliny";
+"The normal level of insulin for women and men is considered to be from 3 to 25 milliunits per liter." = "Uważa się, że normalny poziom insuliny dla kobiet i mężczyzn wynosi od 3 do 25 milijednostek na litr.";
+"Imbalance consequences" = "Konsekwencje braku równowagi";
+"Insulin deficiency can cause type I diabetes. The pancreas does not cope with its functions: the amount of synthesized hormone does not process the entire amount of glucose, so the blood sugar level rises;" = "Niedobór insuliny może powodować cukrzycę typu I. Trzustka nie radzi sobie ze swoimi funkcjami: ilość syntetyzowanego hormonu nie przetwarza całej ilości glukozy, więc wzrasta poziom cukru we krwi;";
+"Too much insulin or too much insulin can lead to type II diabetes because the body's tissues become insensitive to the hormone." = "Za dużo insuliny lub za dużo insuliny może prowadzić do cukrzycy typu II, ponieważ tkanki organizmu stają się niewrażliwe na hormon.";
+"Type I diabetes" = "Cukrzyca typu I";
+"Reasons:" = "Powody:";
+"Viruses that affect the pancreas;" = "Wirusy wpływające na trzustkę;";
+"Conditions associated with the destruction of insulin-producing cells of the pancreas" = "Stany związane z niszczeniem komórek trzustki produkujących insulinę";
+"Signs of type I diabetes:" = "Objawy cukrzycy typu I:";
+"Increased thirst;" = "Zwiększone pragnienie;";
+"Frequent urination;" = "Częste oddawanie moczu;";
+"Constant feeling of hunger;" = "Ciągłe uczucie głodu;";
+"Constant feeling of fatigue;" = "Ciągłe uczucie zmęczenia;";
+"Sharp weight loss" = "Ostra utrata wagi";
+"Type II diabetes" = "Cukrzyca typu II";
+"Risk factors:" = "Czynniki ryzyka:";
+"Stress;" = "Stres;";
+"Overweight;" = "Nadwaga;";
+"Suffered trauma or serious illness;" = "Doznane urazy lub poważne choroby;";
+"Increased blood pressure;" = "Zwiększone ciśnienie krwi;";
+"Age 40+" = "Wiek 40+";
+"Signs of type II diabetes:" = "Objawy cukrzycy typu II:";
+"Feeling tired;" = "Czuć się zmęczonym;";
+"Dryness and itching of the skin;" = "Suchość i swędzenie skóry;";
+"Constant feeling of hunger and thirst;" = "Ciągłe uczucie głodu i pragnienia;";
+"Wounds that do not heal for a long time;" = "Rany, które nie goją się przez długi czas;";
+"Deterioration of vision" = "Pogorszenie widzenia";
+"If you or your relatives have more than two risk factors, we recommend getting tested for diabetes!" = "Jeśli Ty lub Twoi bliscy macie więcej niż dwa czynniki ryzyka, zalecamy wykonanie testu na cukrzycę!";
+"Prevention of diabetes" = "Profilaktyka cukrzycy";
+"Follow a healthy and balanced diet;" = "Stosuj zdrową i zbilansowaną dietę;";
+"Make it a habit to exercise regularly;" = "Zrób nawyk regularnych ćwiczeń;";
+"Maintain a normal body weight;" = "Utrzymuj normalną wagę ciała;";
+"See your doctor to prevent complications" = "Skontaktuj się z lekarzem, aby zapobiec powikłaniom";
+"A note on the procedure for collecting blood for analysis" = "Uwaga dotycząca procedury pobierania krwi do analizy";
+"The last meal should be 8-12 hours before the analysis;" = "Ostatni posiłek powinien być 8-12 godzin przed analizą;";
+"One day before the analysis, exclude fatty food;" = "Dzień przed analizą wyklucz tłuste jedzenie;";
+"One day before the analysis, exclude alcohol;" = "Dzień przed analizą wyklucz alkohol;";
+"It is allowed to drink water" = "Dozwolone jest picie wody";
+"Each case is special, so we recommend consulting a doctor before collecting blood!" = "Każdy przypadek jest wyjątkowy, dlatego przed pobraniem krwi zalecamy konsultację z lekarzem!";
+ 
+"Glucose (sugar)" = "Glukoza (cukier)";
+"About glucose" = "O glukozie";
+"Glucose is a simple sugar, the main source of energy for the human body. The carbohydrates we eat are broken down into glucose and other simple sugars." = "Glukoza jest cukrem prostym, głównym źródłem energii dla organizmu człowieka. Węglowodany, które spożywamy, są rozkładane na glukozę i inne cukry proste.";
+"The norm of glucose in the blood" = "Norma glukozy we krwi";
+"Adults: 3.5-5.7 mmol/l;" = "Dorośli: 3,5-5,7 mmol/l;";
+"Children: 4.2-6.4 mmol/l;" = "Dzieci: 4,2-6,4 mmol/l;";
+"Elderly people and pregnant women: 3.3-6.5 mmol/l" = "Osoby starsze i kobiety w ciąży: 3,3-6,5 mmol/l";
+"Pregnancy can trigger the development of diabetes. Therefore, pregnant women need to regularly take blood sugar tests!" = "Ciąża może wywołać rozwój cukrzycy. Dlatego kobiety w ciąży muszą regularnie wykonywać badania poziomu cukru we krwi!";
+"Factors contributing to an increase in sugar levels" = "Czynniki przyczyniające się do wzrostu poziomu cukru";
+"Unstable emotional state;" = "Niestabilny stan emocjonalny;";
+"Unhealthy diet;" = "Niezdrowa dieta;";
+"Smoking" = "Palenie";
+"Signs that may indicate an increase in sugar levels" = "Oznaki, które mogą wskazywać na wzrost poziomu cukru";
+"Constant thirst;" = "Ciągłe pragnienie;";
+"Dry mouth;" = "Suchość w ustach;";
+"Itching of the skin and mucous membranes;" = "Swędzenie skóry i błon śluzowych;";
+"General weakness, constant feeling of fatigue" = "Ogólne osłabienie, ciągłe uczucie zmęczenia";
+"Diseases with an elevated level of glucose" = "Choroby z podwyższonym poziomem glukozy";
+"Diabetes;" = "Cukrzyca;";
+"Endocrine disorders;" = "Zaburzenia endokrynologiczne;";
+"Diseases of the pancreas (pancreatitis, cystic fibrosis);" = "Choroby trzustki (zapalenie trzustki, mukowiscydoza);";
+"Chronic liver and kidney diseases;" = "Przewlekłe choroby wątroby i nerek;";
+"Myocardial infarction" = "Zawał mięśnia sercowego";
+"Avoid physical activity the day before the analysis;" = "Unikaj aktywności fizycznej na dzień przed analizą;";
+"Give up an excessive amount of sweets for dinner;" = "Zrezygnuj z nadmiernej ilości słodyczy na obiad;";
+"It is necessary to come to the laboratory in the morning on an empty stomach: the use of food and water is prohibited;" = "Do laboratorium trzeba przyjść rano na czczo: zabronione jest używanie jedzenia i wody;";
+"When taking daily pills, it is allowed to drink a glass of water" = "Podczas przyjmowania tabletek dziennie można wypić szklankę wody";
+ 
+"User profile" = "Profil użytkownika";
+"Language change" = "Zmiana języka";
+"Help" = "Pomoc";
+"Sign out of your account" = "Wyloguj się ze swojego konta";
+"Change picture" = "Zmień zdjęcie";
+"Personal parameters" = "Parametry osobiste";
+"cm" = "cm";
+"kg" = "kg";
+"Delete profile" = "Usuń profil";
+"Choose from the gallery" = "Wybierz z galerii";
+"Take a picture" = "Zrobić zdjęcie";
+"Delete current photo" = "Usuń bieżące zdjęcie";
+"Second name" = "Nazwisko";
+"First name" = "Imię";
+ 
+"Date of birth" = "Data urodzenia";
+"Height" = "Wzrost";
+"Weight" = "Waga";
+"Deleting a profile" = "Usuwanie profilu";
+"Data cannot be recovered if the profile is deleted. Are you sure you want to delete your profile?" = "Danych nie można odzyskać, jeśli profil zostanie usunięty. Czy na pewno chcesz usunąć swój profil?";
+ 
+"Choose the type of your profile" = "Wybierz typ swojego profilu";
+"I am a user" = "jestem użytkownikiem";
+"I am a doctor" = "jestem lekarzem";
+ 
+"Step 1 of 3" = "Krok 1 z 3";
+"Step 2 of 3" = "Krok 2 z 3";
+"Choose a specialization" = "Wybierz specjalizację";
+"Choose 3 tags that characterize your activity:" = "Wybierz 3 tagi, które charakteryzują Twoją aktywność:";
+"Step 3 of 3" = "Krok 3 z 3";
+"Add your photo to your profile" = "Dodaj swoje zdjęcie do swojego profilu";
+"Upload a photo" = "Załaduj zdjęcie";
+ 
+"Partners of MISU" = "Partnerzy MISU";
+"Those we trust" = "Ci, którym ufamy";
+"See" = "Oglądać";
+ 
+"The heartbeat has regular deviations from the norm" = "Bicie serca ma regularne odchylenia od normy";
+"We recommend taking a heart disease risk test to prevent possible complications" = "Zalecamy wykonanie testu ryzyka chorób serca, aby zapobiec możliwym powikłaniom";
+"Pass a test" = "Zdać test";
+"Blood pressure has regular deviations from the norm" = "Ciśnienie krwi ma regularne odchylenia od normy";
+"It is necessary to pass a test on the risk of developing heart disease to prevent possible complications" = "Konieczne jest zdanie testu na ryzyko rozwoju chorób serca, aby zapobiec możliwym powikłaniom";
+"Heart diseases" = "Choroby serca";
+ 
+"Cardiovascular diseases (CVD)" = "Choroby sercowo-naczyniowe (CVD)";
+"CVD is the most common cause of death in the world. Ischemic disease is the main cause of mortality from cardiovascular diseases." = "CVD jest najczęstszą przyczyną śmierci na świecie. Choroba niedokrwienna jest główną przyczyną śmiertelności z powodu chorób układu krążenia.";
+"CVD includes the following diseases:" = "CVD obejmuje następujące choroby:";
+"Ischemic heart disease (angina, myocardial infarction);" = "Choroba niedokrwienna serca (dławica piersiowa, zawał mięśnia sercowego);";
+ 
+"Heart failure (associated with high blood pressure);" = "Niewydolność serca (związana z wysokim ciśnieniem krwi);";
+"Cardiomyopathy;" = "Kardiomiopatia;";
+"Arrhythmia;" = "Niemiarowość;";
+"Congenital and acquired heart defects;" = "Wrodzone i nabyte wady serca;";
+"Aortic aneurysm;" = "Tętniak aorty;";
+"Thrombosis;" = "Zakrzepica;";
+"Thrombophlebitis" = "Zakrzepowe zapalenie żył";
+ 
+"Age 55+;" = "Wiek 55+;";
+"Genetic factors: if the parents were sick with CVD, the risk of the disease increases three times;" = "Czynniki genetyczne: jeśli rodzice byli chorzy na CVD, ryzyko choroby wzrasta trzykrotnie;";
+"Overweight;" = "Nadwaga;";
+"Low physical activity;" = "Niska aktywność fizyczna;";
+"Smoking and excessive alcohol consumption" = "Palenie i nadmierne spożywanie alkoholu";
+"Typical symptoms of heart attacks and strokes" = "Typowe objawy zawału serca i udaru mózgu";
+"Sudden weakness of the face, arm or leg, mainly on one side of the body;" = "Nagłe osłabienie twarzy, ręki lub nogi, głównie po jednej stronie ciała;";
+"Pain or discomfort in the center of the chest;" = "Ból lub dyskomfort w środku klatki piersiowej;";
+"Pain or discomfort in the hands, left shoulder, elbows, back and jaw;" = "Ból lub dyskomfort w dłoniach, lewym ramieniu, łokciach, plecach i szczęce;";
+"Nausea;" = "Mdłości;";
+"Feeling unclear or unconscious;" = "Poczucie niejasności lub nieprzytomności;";
+"Cold sweat" = "Zimny ​​pot";
+"Prevention of cardiovascular diseases" = "Profilaktyka chorób układu krążenia";
+"Lead a healthy and active lifestyle;" = "Prowadź zdrowy i aktywny tryb życia;";
+"Avoid stress and learn to cope with it;" = "Unikaj stresu i naucz się z nim radzić;";
+"Control the level of blood pressure and glucose;" = "Kontroluj poziom ciśnienia krwi i glukozy;";
+"Have a regular medical examination" = "Mieć regularne badania lekarskie";
+ 
+"The level of risk of heart disease" = "Poziom ryzyka chorób serca";
+"Question 1 of 9" = "Pytanie 1 z 9";
+"Do you feel pain in the chest, head, shoulder or forearm?" = "Czy czujesz ból w klatce piersiowej, głowie, ramieniu lub przedramieniu?";
+"No, I don't feel it" = "Nie, nie czuję tego";
+"Yes, I feel it" = "Tak, czuję to";
+"Specify the nature of the pain:" = "Określ charakter bólu:";
+"Burning pain" = "Palący ból";
+"Pulling pain" = "Ciągnący ból";
+"Sharp pain" = "Ostry ból";
+"Discomfort" = "Dyskomfort";
+"Dull pain" = "Tępy ból";
+"Pressing pain" = "Bóle skurczowe";
+"Have you recently fainted?" = "Czy ostatnio zemdlałeś?";
+"No, it didn't happen" = "Nie, to się nie stało";
+"Yes, it happened" = "Tak, stało się";
+ 
+"Do you have shortness of breath at rest?" = "Czy masz duszność w spoczynku?";
+"No, it doesn't happen" = "Nie, to się nie dzieje";
+"It happens" = "Zdarza się";
+ 
+"Do you feel swelling of the lower extremities in the evening?" = "Czy wieczorem odczuwasz obrzęki kończyn dolnych?";
+"Difficult to answer" = "Trudno odpowiedzieć";
+ 
+"Do you have a tendency to diabetes?" = "Czy masz skłonność do cukrzycy?";
+"No, there isn't" = "Nie, nie ma";
+"Yes, I have" = "Tak jest";
+ 
+"Do you have a habit of smoking?" = "Czy masz zwyczaj palenia?";
+"No problems with the work of the heart were detected!" = "Nie wykryto żadnych problemów z pracą serca!";
+ 
+"For the prevention of cardiovascular diseases, it is necessary:" = "W celu zapobiegania chorobom sercowo-naczyniowym konieczne jest:";
+"Data is unstable, probable risk of disease!" = "Dane są niestabilne, prawdopodobne ryzyko choroby!";
+"Carefully monitor the state of heart health and, in case of deterioration, consult a doctor!" = "Uważnie monitoruj stan zdrowia serca, a w przypadku pogorszenia skonsultuj się z lekarzem!";
+"WARNING! Possible problems in the work of the heart!" = "OSTRZEŻENIE! Możliwe problemy w pracy serca!";
+"We recommend that you consult a doctor as soon as possible!" = "Zalecamy jak najszybsze skonsultowanie się z lekarzem!";
+"Passport series *" = "Seria paszportowa *";
+"Refresh" = "Aktualizować";
+ 
+"Automatic health insurance in the amount of UAH 50,000/year" = "";
+"MISU\'s partner in taking care of your health" = "";
+"22 years" = "";
+"On the insurance market of Ukraine" = "";
+"top 5" = "";
+"From health insurance" = "";
+"+10500" = "";
+"Medical partners" = "";
+"1,000,000" = "";
+"Customers who trust the company" = "";
+"uaAA+" = "";
+"Very high level of financial reliability" = "";
+"* The medical assistant works only on the territory of Ukraine, except for the temporarily occupied territories" = "";
+ 
+"Online consultations of doctors 24/7" = "";
+"The doctor establishes a diagnosis, the necessary course of treatment and a list of medications" = "";
+"Hospitalization in a hospital if the health condition is critical" = "";
+"The medical assistance service is valid for 12 months from the date of purchase of the MISU Watch" = "";
+"The amount for which medical assistance can be provided during the year is up to UAH 50,000" = "";
+ 
+"Phone number *" = "Numer telefonu *";
+"Authority" = "";
+"Date of issue *" = "";
+"* Mandatory field. These data are necessary for issuing a medical policy" = "";
+ 
+"Specialist consultations: psychologist, ENT, neurologist, endocrinologist, gynecologist, urologist, dermatologist (unlimited);" = "";
+"24/7 family doctor consultations" = "";
+ 
+"I confirm the data specified in the Health Declaration" = "";
+"Acquainted with and agrees with the public offer of Alfa Insurance" = "";
+"Acquainted with MISU\'s public offer" = "";
+"* By clicking on the check box, you consent to the processing of personal data in accordance with the \"Law of Ukraine on the Protection of Personal Data\" and the public offer of IC \"Alfa Insurance" = "";
+ 
+"The voluntary health insurance contract remains to be signed" = "";
+"Enter the code received on the number:" = "";
+"Sign the contract" = "";
+ 
+"The possibilities of MISU are open for use!" = "Możliwości MISU są otwarte do użytku";
+"Bracelet using" = "Korzystanie z bransoletki";
+"Health reports" = "";
+"Consultations of doctors" = "";
+"Forecasts and recommendations" = "";
+ 
+"Notification of possible health threats — Assistant notifies about possible negative changes even before they occur;*" = "";
+"Online Assistant 24/7 — you can contact the doctor at any time for a consultation without restrictions for 12 months;" = "";
+"* MISU Watch (or other device) measures indicators and after data analysis sends a health report with personal recommendations. In case of a critical situation, it sends a notification with a prediction of possible negative changes in health" = "";
+ 
+"Alfa Insurance — taking care of the main thing, for you and your loved ones" = "";
+"Partners" = "";
+"Bad" = "";
+"Normal" = "";
+"Excellent" = "";
+ 
+"Number confirmation" = "Potwierdzenie numeru";
+"Please check and try entering the code again, or click send code again" = "Sprawdź i spróbuj wprowadzić kod ponownie lub ponownie kliknij wyślij kod";
+ 
+"Enter your basic details to complete the registration process *" = "Wprowadź swoje podstawowe dane, aby zakończyć proces rejestracji *";
+"Do you really want to log out?" = "Czy na pewno chcesz się wylogować?";
+"Log out" = "Wylogować";
+"Deleting a member" = "Usuwanie członka";
+"Are you sure you want to remove " = "Czy na pewno chcesz usunąć ";
+" from the family group?" = " z grupy rodzinnej?";
+"Delete member" = "Usuń członka";
+ 
+"Remove from family group" = "Usuń z grupy rodzinnej";
+"Organizer" = "Organizator";
+"Waiting (2)" = "Oczekiwanie (2)";
+"User" = "Użytkownik";
+"Add member" = "Dodaj członka";
+"The contact received your invitation to join the Family Group" = "Kontakt otrzymał Twoje zaproszenie do grupy rodzinnej";
+"The number you entered is incorrect, please check and try entering the number again" = "Wprowadzony numer jest nieprawidłowy, sprawdź i spróbuj wprowadzić numer ponownie";
+"Leave the group" = "Opuść grupę";
+"Reduce the level of stress;" = "Zmniejsz poziom stresu;";
+"Suffered trauma or serious illness;" = "doznał urazu lub poważnej choroby;";
+"Loading your data..." = "Ładowanie danych...";
+"You are not at risk of Covid-19" = "Nie jesteś zagrożony Covid-19";
+"Data is unstable, possible risk!" = "Dane są niestabilne, możliwe ryzyko!";
+"You are in the risk group of Covid-19, we advise you to consult a doctor!" = "Jesteś w grupie ryzyka Covid-19, radzimy skonsultować się z lekarzem!";
+"Transportation by ambulance" = "";
+"Prevented cases of pre-infarction condition" = "";
+"Damage to capillaries in diabetes is prevented" = "";
+ 
+"Activation" = "";
+
+"min" = "min";
+"sec" = "sek";
+
+"Please enter full last name" = "Wpisz pełne nazwisko";
+"Please enter full first name" = "Wpisz pełne imię";
+"Please enter full your father name" = "Wpisz pełne imię ojca";
+"Invalid date format. Please enter again" = "Nieprawidłowy format daty. Wprowadź ponownie";
+"Father's name" = "Imię Ojca";
+"Done" = "Gotowe";
+
+"Describe your question" = "Opisz swoje pytanie";
+"Last name" = "Nazwisko";
+"Paternal name" = "Imię ojca";
+"Invalid name format" = "Nieprawidłowy format nazwy";
+"Incorrect last name format" = "Nieprawidłowy format nazwiska";
